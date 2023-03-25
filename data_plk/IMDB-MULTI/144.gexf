@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2014" label="2014" />
+      <node id="2015" label="2015" />
+      <node id="2009" label="2009" />
+      <node id="2018" label="2018" />
+      <node id="2008" label="2008" />
+      <node id="2016" label="2016" />
+      <node id="2005" label="2005" />
+      <node id="2006" label="2006" />
+      <node id="2007" label="2007" />
+      <node id="2013" label="2013" />
+      <node id="2019" label="2019" />
+      <node id="2011" label="2011" />
+      <node id="2012" label="2012" />
+      <node id="2010" label="2010" />
+      <node id="2017" label="2017" />
+    </nodes>
+    <edges>
+      <edge id="0" source="2014" target="2008" />
+      <edge id="1" source="2014" target="2018" />
+      <edge id="2" source="2014" target="2013" />
+      <edge id="3" source="2014" target="2011" />
+      <edge id="4" source="2014" target="2012" />
+      <edge id="5" source="2014" target="2005" />
+      <edge id="6" source="2014" target="2016" />
+      <edge id="7" source="2014" target="2007" />
+      <edge id="8" source="2015" target="2013" />
+      <edge id="9" source="2015" target="2006" />
+      <edge id="10" source="2015" target="2009" />
+      <edge id="11" source="2015" target="2019" />
+      <edge id="12" source="2015" target="2010" />
+      <edge id="13" source="2015" target="2017" />
+      <edge id="14" source="2009" target="2013" />
+      <edge id="15" source="2009" target="2006" />
+      <edge id="16" source="2009" target="2019" />
+      <edge id="17" source="2009" target="2010" />
+      <edge id="18" source="2009" target="2017" />
+      <edge id="19" source="2018" target="2008" />
+      <edge id="20" source="2018" target="2013" />
+      <edge id="21" source="2018" target="2011" />
+      <edge id="22" source="2018" target="2012" />
+      <edge id="23" source="2018" target="2005" />
+      <edge id="24" source="2018" target="2016" />
+      <edge id="25" source="2018" target="2007" />
+      <edge id="26" source="2008" target="2013" />
+      <edge id="27" source="2008" target="2011" />
+      <edge id="28" source="2008" target="2012" />
+      <edge id="29" source="2008" target="2005" />
+      <edge id="30" source="2008" target="2016" />
+      <edge id="31" source="2008" target="2007" />
+      <edge id="32" source="2016" target="2013" />
+      <edge id="33" source="2016" target="2011" />
+      <edge id="34" source="2016" target="2012" />
+      <edge id="35" source="2016" target="2005" />
+      <edge id="36" source="2016" target="2007" />
+      <edge id="37" source="2005" target="2011" />
+      <edge id="38" source="2005" target="2012" />
+      <edge id="39" source="2005" target="2013" />
+      <edge id="40" source="2005" target="2007" />
+      <edge id="41" source="2006" target="2013" />
+      <edge id="42" source="2006" target="2019" />
+      <edge id="43" source="2006" target="2010" />
+      <edge id="44" source="2006" target="2017" />
+      <edge id="45" source="2007" target="2013" />
+      <edge id="46" source="2007" target="2011" />
+      <edge id="47" source="2007" target="2012" />
+      <edge id="48" source="2013" target="2019" />
+      <edge id="49" source="2013" target="2011" />
+      <edge id="50" source="2013" target="2012" />
+      <edge id="51" source="2013" target="2010" />
+      <edge id="52" source="2013" target="2017" />
+      <edge id="53" source="2019" target="2010" />
+      <edge id="54" source="2019" target="2017" />
+      <edge id="55" source="2011" target="2012" />
+      <edge id="56" source="2010" target="2017" />
+    </edges>
+  </graph>
+</gexf>

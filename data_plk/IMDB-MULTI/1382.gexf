@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="18124" label="18124" />
+      <node id="18116" label="18116" />
+      <node id="18123" label="18123" />
+      <node id="18119" label="18119" />
+      <node id="18120" label="18120" />
+      <node id="18117" label="18117" />
+      <node id="18118" label="18118" />
+      <node id="18121" label="18121" />
+      <node id="18122" label="18122" />
+    </nodes>
+    <edges>
+      <edge id="0" source="18124" target="18116" />
+      <edge id="1" source="18124" target="18123" />
+      <edge id="2" source="18124" target="18119" />
+      <edge id="3" source="18124" target="18120" />
+      <edge id="4" source="18124" target="18117" />
+      <edge id="5" source="18124" target="18118" />
+      <edge id="6" source="18124" target="18121" />
+      <edge id="7" source="18124" target="18122" />
+      <edge id="8" source="18116" target="18123" />
+      <edge id="9" source="18116" target="18119" />
+      <edge id="10" source="18116" target="18120" />
+      <edge id="11" source="18116" target="18117" />
+      <edge id="12" source="18116" target="18118" />
+      <edge id="13" source="18116" target="18121" />
+      <edge id="14" source="18116" target="18122" />
+      <edge id="15" source="18123" target="18119" />
+      <edge id="16" source="18123" target="18120" />
+      <edge id="17" source="18123" target="18117" />
+      <edge id="18" source="18123" target="18118" />
+      <edge id="19" source="18123" target="18121" />
+      <edge id="20" source="18123" target="18122" />
+      <edge id="21" source="18119" target="18120" />
+      <edge id="22" source="18119" target="18117" />
+      <edge id="23" source="18119" target="18118" />
+      <edge id="24" source="18119" target="18121" />
+      <edge id="25" source="18119" target="18122" />
+      <edge id="26" source="18120" target="18117" />
+      <edge id="27" source="18120" target="18118" />
+      <edge id="28" source="18120" target="18121" />
+      <edge id="29" source="18120" target="18122" />
+      <edge id="30" source="18117" target="18118" />
+      <edge id="31" source="18117" target="18121" />
+      <edge id="32" source="18117" target="18122" />
+      <edge id="33" source="18118" target="18121" />
+      <edge id="34" source="18118" target="18122" />
+      <edge id="35" source="18121" target="18122" />
+    </edges>
+  </graph>
+</gexf>

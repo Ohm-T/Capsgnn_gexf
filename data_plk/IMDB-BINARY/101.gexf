@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2042" label="2042" />
+      <node id="2041" label="2041" />
+      <node id="2031" label="2031" />
+      <node id="2024" label="2024" />
+      <node id="2025" label="2025" />
+      <node id="2050" label="2050" />
+      <node id="2043" label="2043" />
+      <node id="2026" label="2026" />
+      <node id="2032" label="2032" />
+      <node id="2035" label="2035" />
+      <node id="2049" label="2049" />
+      <node id="2036" label="2036" />
+      <node id="2030" label="2030" />
+      <node id="2048" label="2048" />
+      <node id="2038" label="2038" />
+      <node id="2052" label="2052" />
+      <node id="2051" label="2051" />
+      <node id="2023" label="2023" />
+      <node id="2028" label="2028" />
+      <node id="2040" label="2040" />
+      <node id="2033" label="2033" />
+      <node id="2034" label="2034" />
+      <node id="2027" label="2027" />
+      <node id="2044" label="2044" />
+      <node id="2037" label="2037" />
+      <node id="2046" label="2046" />
+      <node id="2045" label="2045" />
+      <node id="2029" label="2029" />
+      <node id="2047" label="2047" />
+      <node id="2039" label="2039" />
+    </nodes>
+    <edges>
+      <edge id="0" source="2042" target="2038" />
+      <edge id="1" source="2042" target="2051" />
+      <edge id="2" source="2042" target="2033" />
+      <edge id="3" source="2042" target="2029" />
+      <edge id="4" source="2042" target="2028" />
+      <edge id="5" source="2042" target="2025" />
+      <edge id="6" source="2042" target="2043" />
+      <edge id="7" source="2042" target="2026" />
+      <edge id="8" source="2042" target="2044" />
+      <edge id="9" source="2042" target="2037" />
+      <edge id="10" source="2042" target="2046" />
+      <edge id="11" source="2042" target="2030" />
+      <edge id="12" source="2042" target="2049" />
+      <edge id="13" source="2041" target="2038" />
+      <edge id="14" source="2041" target="2023" />
+      <edge id="15" source="2041" target="2031" />
+      <edge id="16" source="2041" target="2039" />
+      <edge id="17" source="2031" target="2038" />
+      <edge id="18" source="2031" target="2023" />
+      <edge id="19" source="2031" target="2039" />
+      <edge id="20" source="2024" target="2026" />
+      <edge id="21" source="2024" target="2034" />
+      <edge id="22" source="2024" target="2038" />
+      <edge id="23" source="2024" target="2027" />
+      <edge id="24" source="2025" target="2038" />
+      <edge id="25" source="2025" target="2051" />
+      <edge id="26" source="2025" target="2033" />
+      <edge id="27" source="2025" target="2029" />
+      <edge id="28" source="2025" target="2028" />
+      <edge id="29" source="2025" target="2043" />
+      <edge id="30" source="2025" target="2026" />
+      <edge id="31" source="2025" target="2044" />
+      <edge id="32" source="2025" target="2037" />
+      <edge id="33" source="2025" target="2046" />
+      <edge id="34" source="2025" target="2030" />
+      <edge id="35" source="2050" target="2038" />
+      <edge id="36" source="2050" target="2032" />
+      <edge id="37" source="2050" target="2049" />
+      <edge id="38" source="2050" target="2045" />
+      <edge id="39" source="2050" target="2048" />
+      <edge id="40" source="2050" target="2047" />
+      <edge id="41" source="2043" target="2038" />
+      <edge id="42" source="2043" target="2051" />
+      <edge id="43" source="2043" target="2033" />
+      <edge id="44" source="2043" target="2029" />
+      <edge id="45" source="2043" target="2028" />
+      <edge id="46" source="2043" target="2026" />
+      <edge id="47" source="2043" target="2044" />
+      <edge id="48" source="2043" target="2037" />
+      <edge id="49" source="2043" target="2046" />
+      <edge id="50" source="2043" target="2030" />
+      <edge id="51" source="2026" target="2038" />
+      <edge id="52" source="2026" target="2028" />
+      <edge id="53" source="2026" target="2029" />
+      <edge id="54" source="2026" target="2048" />
+      <edge id="55" source="2026" target="2033" />
+      <edge id="56" source="2026" target="2034" />
+      <edge id="57" source="2026" target="2027" />
+      <edge id="58" source="2026" target="2046" />
+      <edge id="59" source="2026" target="2030" />
+      <edge id="60" source="2032" target="2038" />
+      <edge id="61" source="2032" target="2047" />
+      <edge id="62" source="2032" target="2045" />
+      <edge id="63" source="2032" target="2048" />
+      <edge id="64" source="2032" target="2049" />
+      <edge id="65" source="2035" target="2038" />
+      <edge id="66" source="2035" target="2040" />
+      <edge id="67" source="2035" target="2052" />
+      <edge id="68" source="2035" target="2048" />
+      <edge id="69" source="2035" target="2036" />
+      <edge id="70" source="2049" target="2038" />
+      <edge id="71" source="2049" target="2023" />
+      <edge id="72" source="2049" target="2045" />
+      <edge id="73" source="2049" target="2048" />
+      <edge id="74" source="2049" target="2047" />
+      <edge id="75" source="2036" target="2038" />
+      <edge id="76" source="2036" target="2052" />
+      <edge id="77" source="2036" target="2048" />
+      <edge id="78" source="2036" target="2040" />
+      <edge id="79" source="2030" target="2047" />
+      <edge id="80" source="2030" target="2033" />
+      <edge id="81" source="2030" target="2029" />
+      <edge id="82" source="2030" target="2046" />
+      <edge id="83" source="2030" target="2028" />
+      <edge id="84" source="2030" target="2038" />
+      <edge id="85" source="2048" target="2052" />
+      <edge id="86" source="2048" target="2038" />
+      <edge id="87" source="2048" target="2040" />
+      <edge id="88" source="2048" target="2045" />
+      <edge id="89" source="2048" target="2047" />
+      <edge id="90" source="2038" target="2044" />
+      <edge id="91" source="2038" target="2052" />
+      <edge id="92" source="2038" target="2051" />
+      <edge id="93" source="2038" target="2023" />
+      <edge id="94" source="2038" target="2028" />
+      <edge id="95" source="2038" target="2040" />
+      <edge id="96" source="2038" target="2033" />
+      <edge id="97" source="2038" target="2034" />
+      <edge id="98" source="2038" target="2027" />
+      <edge id="99" source="2038" target="2037" />
+      <edge id="100" source="2038" target="2046" />
+      <edge id="101" source="2038" target="2045" />
+      <edge id="102" source="2038" target="2029" />
+      <edge id="103" source="2038" target="2047" />
+      <edge id="104" source="2038" target="2039" />
+      <edge id="105" source="2052" target="2040" />
+      <edge id="106" source="2051" target="2044" />
+      <edge id="107" source="2051" target="2029" />
+      <edge id="108" source="2051" target="2028" />
+      <edge id="109" source="2051" target="2037" />
+      <edge id="110" source="2023" target="2039" />
+      <edge id="111" source="2028" target="2033" />
+      <edge id="112" source="2028" target="2029" />
+      <edge id="113" source="2028" target="2044" />
+      <edge id="114" source="2028" target="2037" />
+      <edge id="115" source="2028" target="2046" />
+      <edge id="116" source="2033" target="2029" />
+      <edge id="117" source="2033" target="2046" />
+      <edge id="118" source="2034" target="2027" />
+      <edge id="119" source="2044" target="2029" />
+      <edge id="120" source="2044" target="2037" />
+      <edge id="121" source="2037" target="2029" />
+      <edge id="122" source="2046" target="2047" />
+      <edge id="123" source="2046" target="2029" />
+      <edge id="124" source="2045" target="2047" />
+    </edges>
+  </graph>
+</gexf>

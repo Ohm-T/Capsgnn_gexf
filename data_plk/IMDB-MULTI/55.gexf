@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="784" label="784" />
+      <node id="786" label="786" />
+      <node id="763" label="763" />
+      <node id="781" label="781" />
+      <node id="772" label="772" />
+      <node id="777" label="777" />
+      <node id="769" label="769" />
+      <node id="775" label="775" />
+      <node id="771" label="771" />
+      <node id="785" label="785" />
+      <node id="764" label="764" />
+      <node id="776" label="776" />
+      <node id="767" label="767" />
+      <node id="788" label="788" />
+      <node id="766" label="766" />
+      <node id="782" label="782" />
+      <node id="770" label="770" />
+      <node id="783" label="783" />
+      <node id="768" label="768" />
+      <node id="765" label="765" />
+      <node id="780" label="780" />
+      <node id="774" label="774" />
+      <node id="787" label="787" />
+      <node id="778" label="778" />
+      <node id="773" label="773" />
+      <node id="779" label="779" />
+    </nodes>
+    <edges>
+      <edge id="0" source="784" target="786" />
+      <edge id="1" source="784" target="763" />
+      <edge id="2" source="784" target="781" />
+      <edge id="3" source="784" target="772" />
+      <edge id="4" source="784" target="777" />
+      <edge id="5" source="784" target="769" />
+      <edge id="6" source="784" target="775" />
+      <edge id="7" source="784" target="771" />
+      <edge id="8" source="784" target="785" />
+      <edge id="9" source="784" target="764" />
+      <edge id="10" source="784" target="776" />
+      <edge id="11" source="784" target="767" />
+      <edge id="12" source="784" target="788" />
+      <edge id="13" source="784" target="766" />
+      <edge id="14" source="784" target="782" />
+      <edge id="15" source="784" target="770" />
+      <edge id="16" source="784" target="783" />
+      <edge id="17" source="784" target="768" />
+      <edge id="18" source="784" target="765" />
+      <edge id="19" source="784" target="780" />
+      <edge id="20" source="784" target="774" />
+      <edge id="21" source="784" target="787" />
+      <edge id="22" source="784" target="778" />
+      <edge id="23" source="784" target="773" />
+      <edge id="24" source="784" target="779" />
+      <edge id="25" source="786" target="787" />
+      <edge id="26" source="786" target="781" />
+      <edge id="27" source="786" target="778" />
+      <edge id="28" source="763" target="781" />
+      <edge id="29" source="763" target="764" />
+      <edge id="30" source="763" target="770" />
+      <edge id="31" source="763" target="766" />
+      <edge id="32" source="763" target="788" />
+      <edge id="33" source="763" target="776" />
+      <edge id="34" source="763" target="769" />
+      <edge id="35" source="781" target="778" />
+      <edge id="36" source="781" target="787" />
+      <edge id="37" source="781" target="766" />
+      <edge id="38" source="781" target="776" />
+      <edge id="39" source="772" target="775" />
+      <edge id="40" source="772" target="771" />
+      <edge id="41" source="772" target="773" />
+      <edge id="42" source="772" target="783" />
+      <edge id="43" source="772" target="768" />
+      <edge id="44" source="772" target="777" />
+      <edge id="45" source="772" target="780" />
+      <edge id="46" source="777" target="775" />
+      <edge id="47" source="777" target="773" />
+      <edge id="48" source="777" target="768" />
+      <edge id="49" source="769" target="788" />
+      <edge id="50" source="769" target="764" />
+      <edge id="51" source="769" target="770" />
+      <edge id="52" source="769" target="766" />
+      <edge id="53" source="769" target="776" />
+      <edge id="54" source="775" target="773" />
+      <edge id="55" source="775" target="768" />
+      <edge id="56" source="771" target="783" />
+      <edge id="57" source="771" target="768" />
+      <edge id="58" source="771" target="780" />
+      <edge id="59" source="785" target="767" />
+      <edge id="60" source="785" target="783" />
+      <edge id="61" source="785" target="774" />
+      <edge id="62" source="785" target="765" />
+      <edge id="63" source="764" target="788" />
+      <edge id="64" source="764" target="770" />
+      <edge id="65" source="764" target="766" />
+      <edge id="66" source="764" target="776" />
+      <edge id="67" source="776" target="788" />
+      <edge id="68" source="776" target="770" />
+      <edge id="69" source="776" target="766" />
+      <edge id="70" source="767" target="783" />
+      <edge id="71" source="767" target="774" />
+      <edge id="72" source="767" target="765" />
+      <edge id="73" source="788" target="783" />
+      <edge id="74" source="788" target="782" />
+      <edge id="75" source="788" target="779" />
+      <edge id="76" source="788" target="770" />
+      <edge id="77" source="788" target="766" />
+      <edge id="78" source="766" target="770" />
+      <edge id="79" source="782" target="783" />
+      <edge id="80" source="782" target="779" />
+      <edge id="81" source="783" target="768" />
+      <edge id="82" source="783" target="765" />
+      <edge id="83" source="783" target="780" />
+      <edge id="84" source="783" target="774" />
+      <edge id="85" source="783" target="779" />
+      <edge id="86" source="768" target="773" />
+      <edge id="87" source="768" target="780" />
+      <edge id="88" source="765" target="774" />
+      <edge id="89" source="787" target="778" />
+    </edges>
+  </graph>
+</gexf>

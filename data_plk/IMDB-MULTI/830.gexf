@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="11003" label="11003" />
+      <node id="11002" label="11002" />
+      <node id="11005" label="11005" />
+      <node id="11004" label="11004" />
+      <node id="11001" label="11001" />
+      <node id="11007" label="11007" />
+      <node id="11006" label="11006" />
+      <node id="11008" label="11008" />
+    </nodes>
+    <edges>
+      <edge id="0" source="11003" target="11004" />
+      <edge id="1" source="11003" target="11002" />
+      <edge id="2" source="11003" target="11005" />
+      <edge id="3" source="11002" target="11004" />
+      <edge id="4" source="11002" target="11005" />
+      <edge id="5" source="11005" target="11004" />
+      <edge id="6" source="11004" target="11001" />
+      <edge id="7" source="11004" target="11007" />
+      <edge id="8" source="11004" target="11006" />
+      <edge id="9" source="11004" target="11008" />
+      <edge id="10" source="11001" target="11006" />
+      <edge id="11" source="11001" target="11007" />
+      <edge id="12" source="11001" target="11008" />
+      <edge id="13" source="11007" target="11006" />
+      <edge id="14" source="11007" target="11008" />
+      <edge id="15" source="11006" target="11008" />
+    </edges>
+  </graph>
+</gexf>

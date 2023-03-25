@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1271" label="1271" />
+      <node id="1272" label="1272" />
+      <node id="1268" label="1268" />
+      <node id="1273" label="1273" />
+      <node id="1274" label="1274" />
+      <node id="1267" label="1267" />
+      <node id="1270" label="1270" />
+      <node id="1269" label="1269" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1271" target="1269" />
+      <edge id="1" source="1271" target="1272" />
+      <edge id="2" source="1271" target="1268" />
+      <edge id="3" source="1271" target="1274" />
+      <edge id="4" source="1271" target="1267" />
+      <edge id="5" source="1271" target="1270" />
+      <edge id="6" source="1271" target="1273" />
+      <edge id="7" source="1272" target="1268" />
+      <edge id="8" source="1272" target="1273" />
+      <edge id="9" source="1272" target="1274" />
+      <edge id="10" source="1272" target="1267" />
+      <edge id="11" source="1272" target="1270" />
+      <edge id="12" source="1272" target="1269" />
+      <edge id="13" source="1268" target="1270" />
+      <edge id="14" source="1268" target="1273" />
+      <edge id="15" source="1268" target="1274" />
+      <edge id="16" source="1268" target="1267" />
+      <edge id="17" source="1268" target="1269" />
+      <edge id="18" source="1273" target="1274" />
+      <edge id="19" source="1273" target="1267" />
+      <edge id="20" source="1273" target="1270" />
+      <edge id="21" source="1273" target="1269" />
+      <edge id="22" source="1274" target="1267" />
+      <edge id="23" source="1274" target="1270" />
+      <edge id="24" source="1274" target="1269" />
+      <edge id="25" source="1267" target="1270" />
+      <edge id="26" source="1267" target="1269" />
+      <edge id="27" source="1270" target="1269" />
+    </edges>
+  </graph>
+</gexf>

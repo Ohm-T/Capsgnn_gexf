@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="5135" label="5135" />
+      <node id="5134" label="5134" />
+      <node id="5139" label="5139" />
+      <node id="5132" label="5132" />
+      <node id="5136" label="5136" />
+      <node id="5138" label="5138" />
+      <node id="5133" label="5133" />
+      <node id="5131" label="5131" />
+      <node id="5137" label="5137" />
+    </nodes>
+    <edges>
+      <edge id="0" source="5135" target="5138" />
+      <edge id="1" source="5135" target="5137" />
+      <edge id="2" source="5135" target="5139" />
+      <edge id="3" source="5135" target="5132" />
+      <edge id="4" source="5135" target="5136" />
+      <edge id="5" source="5134" target="5133" />
+      <edge id="6" source="5134" target="5131" />
+      <edge id="7" source="5134" target="5132" />
+      <edge id="8" source="5134" target="5137" />
+      <edge id="9" source="5139" target="5138" />
+      <edge id="10" source="5139" target="5137" />
+      <edge id="11" source="5139" target="5132" />
+      <edge id="12" source="5139" target="5136" />
+      <edge id="13" source="5132" target="5136" />
+      <edge id="14" source="5132" target="5138" />
+      <edge id="15" source="5132" target="5133" />
+      <edge id="16" source="5132" target="5131" />
+      <edge id="17" source="5132" target="5137" />
+      <edge id="18" source="5136" target="5138" />
+      <edge id="19" source="5136" target="5137" />
+      <edge id="20" source="5138" target="5137" />
+      <edge id="21" source="5133" target="5131" />
+      <edge id="22" source="5133" target="5137" />
+      <edge id="23" source="5131" target="5137" />
+    </edges>
+  </graph>
+</gexf>

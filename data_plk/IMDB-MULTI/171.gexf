@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2427" label="2427" />
+      <node id="2424" label="2424" />
+      <node id="2423" label="2423" />
+      <node id="2426" label="2426" />
+      <node id="2429" label="2429" />
+      <node id="2425" label="2425" />
+      <node id="2428" label="2428" />
+    </nodes>
+    <edges>
+      <edge id="0" source="2427" target="2425" />
+      <edge id="1" source="2427" target="2424" />
+      <edge id="2" source="2427" target="2428" />
+      <edge id="3" source="2424" target="2425" />
+      <edge id="4" source="2424" target="2428" />
+      <edge id="5" source="2423" target="2429" />
+      <edge id="6" source="2423" target="2426" />
+      <edge id="7" source="2423" target="2428" />
+      <edge id="8" source="2426" target="2429" />
+      <edge id="9" source="2426" target="2428" />
+      <edge id="10" source="2429" target="2428" />
+      <edge id="11" source="2425" target="2428" />
+    </edges>
+  </graph>
+</gexf>

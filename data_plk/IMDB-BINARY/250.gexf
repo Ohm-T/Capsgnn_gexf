@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="5083" label="5083" />
+      <node id="5069" label="5069" />
+      <node id="5076" label="5076" />
+      <node id="5080" label="5080" />
+      <node id="5085" label="5085" />
+      <node id="5073" label="5073" />
+      <node id="5087" label="5087" />
+      <node id="5078" label="5078" />
+      <node id="5086" label="5086" />
+      <node id="5075" label="5075" />
+      <node id="5077" label="5077" />
+      <node id="5079" label="5079" />
+      <node id="5074" label="5074" />
+      <node id="5072" label="5072" />
+      <node id="5081" label="5081" />
+      <node id="5082" label="5082" />
+      <node id="5070" label="5070" />
+      <node id="5071" label="5071" />
+      <node id="5084" label="5084" />
+    </nodes>
+    <edges>
+      <edge id="0" source="5083" target="5069" />
+      <edge id="1" source="5083" target="5076" />
+      <edge id="2" source="5083" target="5080" />
+      <edge id="3" source="5083" target="5085" />
+      <edge id="4" source="5083" target="5073" />
+      <edge id="5" source="5083" target="5087" />
+      <edge id="6" source="5083" target="5078" />
+      <edge id="7" source="5083" target="5086" />
+      <edge id="8" source="5083" target="5075" />
+      <edge id="9" source="5083" target="5077" />
+      <edge id="10" source="5083" target="5079" />
+      <edge id="11" source="5083" target="5074" />
+      <edge id="12" source="5083" target="5072" />
+      <edge id="13" source="5083" target="5081" />
+      <edge id="14" source="5083" target="5082" />
+      <edge id="15" source="5083" target="5070" />
+      <edge id="16" source="5083" target="5071" />
+      <edge id="17" source="5083" target="5084" />
+      <edge id="18" source="5069" target="5087" />
+      <edge id="19" source="5069" target="5084" />
+      <edge id="20" source="5069" target="5074" />
+      <edge id="21" source="5069" target="5078" />
+      <edge id="22" source="5076" target="5075" />
+      <edge id="23" source="5076" target="5080" />
+      <edge id="24" source="5076" target="5085" />
+      <edge id="25" source="5076" target="5081" />
+      <edge id="26" source="5076" target="5082" />
+      <edge id="27" source="5076" target="5071" />
+      <edge id="28" source="5076" target="5073" />
+      <edge id="29" source="5076" target="5086" />
+      <edge id="30" source="5080" target="5075" />
+      <edge id="31" source="5080" target="5085" />
+      <edge id="32" source="5080" target="5081" />
+      <edge id="33" source="5080" target="5082" />
+      <edge id="34" source="5080" target="5071" />
+      <edge id="35" source="5080" target="5073" />
+      <edge id="36" source="5080" target="5086" />
+      <edge id="37" source="5085" target="5075" />
+      <edge id="38" source="5085" target="5073" />
+      <edge id="39" source="5085" target="5082" />
+      <edge id="40" source="5085" target="5071" />
+      <edge id="41" source="5085" target="5081" />
+      <edge id="42" source="5085" target="5086" />
+      <edge id="43" source="5073" target="5075" />
+      <edge id="44" source="5073" target="5081" />
+      <edge id="45" source="5073" target="5082" />
+      <edge id="46" source="5073" target="5071" />
+      <edge id="47" source="5073" target="5086" />
+      <edge id="48" source="5087" target="5084" />
+      <edge id="49" source="5087" target="5074" />
+      <edge id="50" source="5087" target="5078" />
+      <edge id="51" source="5078" target="5074" />
+      <edge id="52" source="5078" target="5084" />
+      <edge id="53" source="5086" target="5075" />
+      <edge id="54" source="5086" target="5081" />
+      <edge id="55" source="5086" target="5082" />
+      <edge id="56" source="5075" target="5081" />
+      <edge id="57" source="5075" target="5082" />
+      <edge id="58" source="5075" target="5071" />
+      <edge id="59" source="5077" target="5070" />
+      <edge id="60" source="5077" target="5079" />
+      <edge id="61" source="5077" target="5072" />
+      <edge id="62" source="5079" target="5070" />
+      <edge id="63" source="5079" target="5072" />
+      <edge id="64" source="5074" target="5084" />
+      <edge id="65" source="5072" target="5070" />
+      <edge id="66" source="5072" target="5084" />
+      <edge id="67" source="5081" target="5082" />
+      <edge id="68" source="5081" target="5071" />
+      <edge id="69" source="5082" target="5071" />
+    </edges>
+  </graph>
+</gexf>

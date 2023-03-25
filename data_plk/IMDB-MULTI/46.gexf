@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="635" label="635" />
+      <node id="636" label="636" />
+      <node id="637" label="637" />
+      <node id="634" label="634" />
+      <node id="639" label="639" />
+      <node id="642" label="642" />
+      <node id="640" label="640" />
+      <node id="641" label="641" />
+      <node id="638" label="638" />
+    </nodes>
+    <edges>
+      <edge id="0" source="635" target="636" />
+      <edge id="1" source="635" target="639" />
+      <edge id="2" source="635" target="637" />
+      <edge id="3" source="635" target="634" />
+      <edge id="4" source="635" target="642" />
+      <edge id="5" source="635" target="640" />
+      <edge id="6" source="635" target="641" />
+      <edge id="7" source="635" target="638" />
+      <edge id="8" source="636" target="639" />
+      <edge id="9" source="636" target="637" />
+      <edge id="10" source="636" target="634" />
+      <edge id="11" source="636" target="642" />
+      <edge id="12" source="636" target="640" />
+      <edge id="13" source="636" target="641" />
+      <edge id="14" source="636" target="638" />
+      <edge id="15" source="637" target="634" />
+      <edge id="16" source="637" target="639" />
+      <edge id="17" source="637" target="642" />
+      <edge id="18" source="637" target="640" />
+      <edge id="19" source="637" target="641" />
+      <edge id="20" source="637" target="638" />
+      <edge id="21" source="634" target="639" />
+      <edge id="22" source="634" target="642" />
+      <edge id="23" source="634" target="640" />
+      <edge id="24" source="634" target="641" />
+      <edge id="25" source="634" target="638" />
+      <edge id="26" source="639" target="642" />
+      <edge id="27" source="639" target="640" />
+      <edge id="28" source="639" target="641" />
+      <edge id="29" source="639" target="638" />
+      <edge id="30" source="642" target="640" />
+      <edge id="31" source="642" target="641" />
+      <edge id="32" source="642" target="638" />
+      <edge id="33" source="640" target="641" />
+      <edge id="34" source="640" target="638" />
+      <edge id="35" source="641" target="638" />
+    </edges>
+  </graph>
+</gexf>

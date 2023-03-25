@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="417" label="417">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="404" label="404">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="422" label="422">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="410" label="410">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="421" label="421">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="403" label="403">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="413" label="413">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="402" label="402">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="399" label="399">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="420" label="420">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="416" label="416">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="414" label="414">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="419" label="419">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="397" label="397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="407" label="407">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="405" label="405">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="418" label="418">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="401" label="401">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="400" label="400">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="408" label="408">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="423" label="423">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="411" label="411">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="409" label="409">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="398" label="398">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="406" label="406">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="415" label="415">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="412" label="412">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="417" target="402" />
+      <edge id="1" source="417" target="416" />
+      <edge id="2" source="417" target="418" />
+      <edge id="3" source="404" target="405" />
+      <edge id="4" source="404" target="403" />
+      <edge id="5" source="422" target="421" />
+      <edge id="6" source="410" target="409" />
+      <edge id="7" source="410" target="411" />
+      <edge id="8" source="421" target="423" />
+      <edge id="9" source="421" target="406" />
+      <edge id="10" source="403" target="402" />
+      <edge id="11" source="413" target="414" />
+      <edge id="12" source="413" target="412" />
+      <edge id="13" source="402" target="401" />
+      <edge id="14" source="399" target="398" />
+      <edge id="15" source="399" target="400" />
+      <edge id="16" source="399" target="416" />
+      <edge id="17" source="420" target="419" />
+      <edge id="18" source="420" target="415" />
+      <edge id="19" source="420" target="411" />
+      <edge id="20" source="416" target="415" />
+      <edge id="21" source="414" target="397" />
+      <edge id="22" source="414" target="415" />
+      <edge id="23" source="419" target="408" />
+      <edge id="24" source="419" target="418" />
+      <edge id="25" source="397" target="398" />
+      <edge id="26" source="407" target="408" />
+      <edge id="27" source="407" target="406" />
+      <edge id="28" source="405" target="418" />
+      <edge id="29" source="405" target="406" />
+      <edge id="30" source="401" target="400" />
+      <edge id="31" source="408" target="409" />
+      <edge id="32" source="411" target="412" />
+    </edges>
+  </graph>
+</gexf>

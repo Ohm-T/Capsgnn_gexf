@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="15800" label="15800" />
+      <node id="15801" label="15801" />
+      <node id="15811" label="15811" />
+      <node id="15813" label="15813" />
+      <node id="15807" label="15807" />
+      <node id="15805" label="15805" />
+      <node id="15812" label="15812" />
+      <node id="15806" label="15806" />
+      <node id="15802" label="15802" />
+      <node id="15808" label="15808" />
+      <node id="15797" label="15797" />
+      <node id="15799" label="15799" />
+      <node id="15796" label="15796" />
+      <node id="15809" label="15809" />
+      <node id="15803" label="15803" />
+      <node id="15804" label="15804" />
+      <node id="15810" label="15810" />
+      <node id="15795" label="15795" />
+      <node id="15798" label="15798" />
+    </nodes>
+    <edges>
+      <edge id="0" source="15800" target="15811" />
+      <edge id="1" source="15800" target="15801" />
+      <edge id="2" source="15800" target="15813" />
+      <edge id="3" source="15800" target="15807" />
+      <edge id="4" source="15800" target="15804" />
+      <edge id="5" source="15800" target="15812" />
+      <edge id="6" source="15800" target="15802" />
+      <edge id="7" source="15800" target="15805" />
+      <edge id="8" source="15800" target="15808" />
+      <edge id="9" source="15800" target="15797" />
+      <edge id="10" source="15800" target="15799" />
+      <edge id="11" source="15800" target="15796" />
+      <edge id="12" source="15800" target="15809" />
+      <edge id="13" source="15800" target="15803" />
+      <edge id="14" source="15800" target="15795" />
+      <edge id="15" source="15800" target="15810" />
+      <edge id="16" source="15800" target="15806" />
+      <edge id="17" source="15800" target="15798" />
+      <edge id="18" source="15801" target="15811" />
+      <edge id="19" source="15801" target="15805" />
+      <edge id="20" source="15801" target="15802" />
+      <edge id="21" source="15801" target="15810" />
+      <edge id="22" source="15801" target="15795" />
+      <edge id="23" source="15801" target="15798" />
+      <edge id="24" source="15811" target="15813" />
+      <edge id="25" source="15811" target="15807" />
+      <edge id="26" source="15811" target="15805" />
+      <edge id="27" source="15811" target="15812" />
+      <edge id="28" source="15811" target="15806" />
+      <edge id="29" source="15811" target="15802" />
+      <edge id="30" source="15811" target="15808" />
+      <edge id="31" source="15811" target="15797" />
+      <edge id="32" source="15811" target="15799" />
+      <edge id="33" source="15811" target="15796" />
+      <edge id="34" source="15811" target="15809" />
+      <edge id="35" source="15811" target="15803" />
+      <edge id="36" source="15811" target="15804" />
+      <edge id="37" source="15811" target="15810" />
+      <edge id="38" source="15811" target="15795" />
+      <edge id="39" source="15811" target="15798" />
+      <edge id="40" source="15813" target="15797" />
+      <edge id="41" source="15813" target="15799" />
+      <edge id="42" source="15813" target="15796" />
+      <edge id="43" source="15813" target="15807" />
+      <edge id="44" source="15813" target="15804" />
+      <edge id="45" source="15813" target="15812" />
+      <edge id="46" source="15813" target="15806" />
+      <edge id="47" source="15807" target="15797" />
+      <edge id="48" source="15807" target="15799" />
+      <edge id="49" source="15807" target="15796" />
+      <edge id="50" source="15807" target="15804" />
+      <edge id="51" source="15807" target="15812" />
+      <edge id="52" source="15807" target="15806" />
+      <edge id="53" source="15805" target="15809" />
+      <edge id="54" source="15805" target="15803" />
+      <edge id="55" source="15805" target="15802" />
+      <edge id="56" source="15805" target="15808" />
+      <edge id="57" source="15805" target="15810" />
+      <edge id="58" source="15805" target="15795" />
+      <edge id="59" source="15805" target="15798" />
+      <edge id="60" source="15812" target="15797" />
+      <edge id="61" source="15812" target="15799" />
+      <edge id="62" source="15812" target="15796" />
+      <edge id="63" source="15812" target="15804" />
+      <edge id="64" source="15812" target="15806" />
+      <edge id="65" source="15806" target="15797" />
+      <edge id="66" source="15806" target="15799" />
+      <edge id="67" source="15806" target="15796" />
+      <edge id="68" source="15806" target="15804" />
+      <edge id="69" source="15802" target="15810" />
+      <edge id="70" source="15802" target="15795" />
+      <edge id="71" source="15802" target="15798" />
+      <edge id="72" source="15808" target="15809" />
+      <edge id="73" source="15808" target="15803" />
+      <edge id="74" source="15808" target="15798" />
+      <edge id="75" source="15797" target="15804" />
+      <edge id="76" source="15797" target="15799" />
+      <edge id="77" source="15797" target="15796" />
+      <edge id="78" source="15799" target="15796" />
+      <edge id="79" source="15799" target="15804" />
+      <edge id="80" source="15796" target="15804" />
+      <edge id="81" source="15809" target="15803" />
+      <edge id="82" source="15809" target="15798" />
+      <edge id="83" source="15803" target="15798" />
+      <edge id="84" source="15810" target="15795" />
+      <edge id="85" source="15810" target="15798" />
+      <edge id="86" source="15795" target="15798" />
+    </edges>
+  </graph>
+</gexf>

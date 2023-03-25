@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="283" label="283" />
+      <node id="278" label="278" />
+      <node id="282" label="282" />
+      <node id="284" label="284" />
+      <node id="279" label="279" />
+      <node id="280" label="280" />
+      <node id="281" label="281" />
+    </nodes>
+    <edges>
+      <edge id="0" source="283" target="278" />
+      <edge id="1" source="283" target="282" />
+      <edge id="2" source="283" target="284" />
+      <edge id="3" source="283" target="279" />
+      <edge id="4" source="283" target="280" />
+      <edge id="5" source="283" target="281" />
+      <edge id="6" source="278" target="282" />
+      <edge id="7" source="278" target="284" />
+      <edge id="8" source="278" target="279" />
+      <edge id="9" source="278" target="280" />
+      <edge id="10" source="278" target="281" />
+      <edge id="11" source="282" target="284" />
+      <edge id="12" source="282" target="279" />
+      <edge id="13" source="282" target="280" />
+      <edge id="14" source="282" target="281" />
+      <edge id="15" source="284" target="279" />
+      <edge id="16" source="284" target="280" />
+      <edge id="17" source="284" target="281" />
+      <edge id="18" source="279" target="280" />
+      <edge id="19" source="279" target="281" />
+      <edge id="20" source="280" target="281" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="6113" label="6113" />
+      <node id="6114" label="6114" />
+      <node id="6117" label="6117" />
+      <node id="6123" label="6123" />
+      <node id="6120" label="6120" />
+      <node id="6126" label="6126" />
+      <node id="6124" label="6124" />
+      <node id="6119" label="6119" />
+      <node id="6118" label="6118" />
+      <node id="6121" label="6121" />
+      <node id="6125" label="6125" />
+      <node id="6116" label="6116" />
+      <node id="6112" label="6112" />
+      <node id="6115" label="6115" />
+      <node id="6122" label="6122" />
+    </nodes>
+    <edges>
+      <edge id="0" source="6113" target="6114" />
+      <edge id="1" source="6113" target="6119" />
+      <edge id="2" source="6113" target="6123" />
+      <edge id="3" source="6113" target="6125" />
+      <edge id="4" source="6113" target="6120" />
+      <edge id="5" source="6113" target="6116" />
+      <edge id="6" source="6113" target="6115" />
+      <edge id="7" source="6114" target="6119" />
+      <edge id="8" source="6114" target="6123" />
+      <edge id="9" source="6114" target="6125" />
+      <edge id="10" source="6114" target="6120" />
+      <edge id="11" source="6114" target="6116" />
+      <edge id="12" source="6114" target="6115" />
+      <edge id="13" source="6117" target="6121" />
+      <edge id="14" source="6117" target="6125" />
+      <edge id="15" source="6117" target="6126" />
+      <edge id="16" source="6117" target="6112" />
+      <edge id="17" source="6117" target="6124" />
+      <edge id="18" source="6117" target="6118" />
+      <edge id="19" source="6117" target="6122" />
+      <edge id="20" source="6123" target="6119" />
+      <edge id="21" source="6123" target="6125" />
+      <edge id="22" source="6123" target="6120" />
+      <edge id="23" source="6123" target="6116" />
+      <edge id="24" source="6123" target="6115" />
+      <edge id="25" source="6120" target="6119" />
+      <edge id="26" source="6120" target="6125" />
+      <edge id="27" source="6120" target="6116" />
+      <edge id="28" source="6120" target="6115" />
+      <edge id="29" source="6126" target="6124" />
+      <edge id="30" source="6126" target="6125" />
+      <edge id="31" source="6126" target="6112" />
+      <edge id="32" source="6126" target="6121" />
+      <edge id="33" source="6126" target="6118" />
+      <edge id="34" source="6126" target="6122" />
+      <edge id="35" source="6124" target="6125" />
+      <edge id="36" source="6124" target="6112" />
+      <edge id="37" source="6124" target="6121" />
+      <edge id="38" source="6124" target="6118" />
+      <edge id="39" source="6124" target="6122" />
+      <edge id="40" source="6119" target="6125" />
+      <edge id="41" source="6119" target="6116" />
+      <edge id="42" source="6119" target="6115" />
+      <edge id="43" source="6118" target="6121" />
+      <edge id="44" source="6118" target="6125" />
+      <edge id="45" source="6118" target="6112" />
+      <edge id="46" source="6118" target="6122" />
+      <edge id="47" source="6121" target="6125" />
+      <edge id="48" source="6121" target="6112" />
+      <edge id="49" source="6121" target="6122" />
+      <edge id="50" source="6125" target="6116" />
+      <edge id="51" source="6125" target="6112" />
+      <edge id="52" source="6125" target="6115" />
+      <edge id="53" source="6125" target="6122" />
+      <edge id="54" source="6116" target="6115" />
+      <edge id="55" source="6112" target="6122" />
+    </edges>
+  </graph>
+</gexf>

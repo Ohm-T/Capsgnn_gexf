@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="46" label="46" />
+      <node id="49" label="49" />
+      <node id="51" label="51" />
+      <node id="50" label="50" />
+      <node id="48" label="48" />
+      <node id="52" label="52" />
+      <node id="47" label="47" />
+      <node id="45" label="45" />
+    </nodes>
+    <edges>
+      <edge id="0" source="46" target="49" />
+      <edge id="1" source="46" target="47" />
+      <edge id="2" source="46" target="45" />
+      <edge id="3" source="49" target="51" />
+      <edge id="4" source="49" target="50" />
+      <edge id="5" source="49" target="48" />
+      <edge id="6" source="49" target="52" />
+      <edge id="7" source="49" target="47" />
+      <edge id="8" source="49" target="45" />
+      <edge id="9" source="51" target="50" />
+      <edge id="10" source="51" target="48" />
+      <edge id="11" source="51" target="52" />
+      <edge id="12" source="50" target="48" />
+      <edge id="13" source="50" target="52" />
+      <edge id="14" source="48" target="52" />
+      <edge id="15" source="47" target="45" />
+    </edges>
+  </graph>
+</gexf>

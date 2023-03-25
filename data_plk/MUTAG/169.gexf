@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="3044" label="3044">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3031" label="3031">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3039" label="3039">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3029" label="3029">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3028" label="3028">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3035" label="3035">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3033" label="3033">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3037" label="3037">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3032" label="3032">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3042" label="3042">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3043" label="3043">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3034" label="3034">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3038" label="3038">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3040" label="3040">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3041" label="3041">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3030" label="3030">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="3036" label="3036">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3044" target="3042" />
+      <edge id="1" source="3031" target="3030" />
+      <edge id="2" source="3031" target="3041" />
+      <edge id="3" source="3031" target="3032" />
+      <edge id="4" source="3039" target="3038" />
+      <edge id="5" source="3039" target="3040" />
+      <edge id="6" source="3039" target="3042" />
+      <edge id="7" source="3029" target="3030" />
+      <edge id="8" source="3029" target="3028" />
+      <edge id="9" source="3028" target="3033" />
+      <edge id="10" source="3035" target="3034" />
+      <edge id="11" source="3035" target="3036" />
+      <edge id="12" source="3035" target="3040" />
+      <edge id="13" source="3033" target="3032" />
+      <edge id="14" source="3037" target="3038" />
+      <edge id="15" source="3037" target="3036" />
+      <edge id="16" source="3032" target="3034" />
+      <edge id="17" source="3042" target="3043" />
+      <edge id="18" source="3040" target="3041" />
+    </edges>
+  </graph>
+</gexf>

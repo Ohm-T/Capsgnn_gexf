@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="5666" label="5666" />
+      <node id="5665" label="5665" />
+      <node id="5663" label="5663" />
+      <node id="5664" label="5664" />
+      <node id="5661" label="5661" />
+      <node id="5660" label="5660" />
+      <node id="5662" label="5662" />
+    </nodes>
+    <edges>
+      <edge id="0" source="5666" target="5665" />
+      <edge id="1" source="5666" target="5663" />
+      <edge id="2" source="5666" target="5664" />
+      <edge id="3" source="5665" target="5663" />
+      <edge id="4" source="5665" target="5664" />
+      <edge id="5" source="5663" target="5664" />
+      <edge id="6" source="5664" target="5661" />
+      <edge id="7" source="5664" target="5660" />
+      <edge id="8" source="5664" target="5662" />
+      <edge id="9" source="5661" target="5660" />
+      <edge id="10" source="5661" target="5662" />
+      <edge id="11" source="5660" target="5662" />
+    </edges>
+  </graph>
+</gexf>

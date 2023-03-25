@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7000" label="7000" />
+      <node id="7001" label="7001" />
+      <node id="7009" label="7009" />
+      <node id="7006" label="7006" />
+      <node id="7008" label="7008" />
+      <node id="7007" label="7007" />
+      <node id="7002" label="7002" />
+      <node id="7004" label="7004" />
+      <node id="7003" label="7003" />
+      <node id="7005" label="7005" />
+    </nodes>
+    <edges>
+      <edge id="0" source="7000" target="7001" />
+      <edge id="1" source="7000" target="7009" />
+      <edge id="2" source="7000" target="7006" />
+      <edge id="3" source="7000" target="7008" />
+      <edge id="4" source="7000" target="7007" />
+      <edge id="5" source="7000" target="7002" />
+      <edge id="6" source="7000" target="7004" />
+      <edge id="7" source="7000" target="7003" />
+      <edge id="8" source="7000" target="7005" />
+      <edge id="9" source="7001" target="7005" />
+      <edge id="10" source="7001" target="7009" />
+      <edge id="11" source="7001" target="7006" />
+      <edge id="12" source="7001" target="7008" />
+      <edge id="13" source="7001" target="7007" />
+      <edge id="14" source="7001" target="7002" />
+      <edge id="15" source="7001" target="7004" />
+      <edge id="16" source="7001" target="7003" />
+      <edge id="17" source="7009" target="7006" />
+      <edge id="18" source="7009" target="7008" />
+      <edge id="19" source="7009" target="7007" />
+      <edge id="20" source="7009" target="7002" />
+      <edge id="21" source="7009" target="7004" />
+      <edge id="22" source="7009" target="7003" />
+      <edge id="23" source="7009" target="7005" />
+      <edge id="24" source="7006" target="7008" />
+      <edge id="25" source="7006" target="7007" />
+      <edge id="26" source="7006" target="7002" />
+      <edge id="27" source="7006" target="7004" />
+      <edge id="28" source="7006" target="7003" />
+      <edge id="29" source="7006" target="7005" />
+      <edge id="30" source="7008" target="7007" />
+      <edge id="31" source="7008" target="7002" />
+      <edge id="32" source="7008" target="7004" />
+      <edge id="33" source="7008" target="7003" />
+      <edge id="34" source="7008" target="7005" />
+      <edge id="35" source="7007" target="7002" />
+      <edge id="36" source="7007" target="7004" />
+      <edge id="37" source="7007" target="7003" />
+      <edge id="38" source="7007" target="7005" />
+      <edge id="39" source="7002" target="7004" />
+      <edge id="40" source="7002" target="7003" />
+      <edge id="41" source="7002" target="7005" />
+      <edge id="42" source="7004" target="7003" />
+      <edge id="43" source="7004" target="7005" />
+      <edge id="44" source="7003" target="7005" />
+    </edges>
+  </graph>
+</gexf>

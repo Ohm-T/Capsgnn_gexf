@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="12791" label="12791" />
+      <node id="12794" label="12794" />
+      <node id="12795" label="12795" />
+      <node id="12792" label="12792" />
+      <node id="12793" label="12793" />
+      <node id="12796" label="12796" />
+      <node id="12790" label="12790" />
+    </nodes>
+    <edges>
+      <edge id="0" source="12791" target="12794" />
+      <edge id="1" source="12791" target="12795" />
+      <edge id="2" source="12791" target="12792" />
+      <edge id="3" source="12791" target="12793" />
+      <edge id="4" source="12791" target="12796" />
+      <edge id="5" source="12791" target="12790" />
+      <edge id="6" source="12794" target="12795" />
+      <edge id="7" source="12794" target="12792" />
+      <edge id="8" source="12794" target="12793" />
+      <edge id="9" source="12794" target="12796" />
+      <edge id="10" source="12794" target="12790" />
+      <edge id="11" source="12795" target="12796" />
+      <edge id="12" source="12795" target="12792" />
+      <edge id="13" source="12795" target="12793" />
+      <edge id="14" source="12795" target="12790" />
+      <edge id="15" source="12792" target="12793" />
+      <edge id="16" source="12792" target="12796" />
+      <edge id="17" source="12792" target="12790" />
+      <edge id="18" source="12793" target="12796" />
+      <edge id="19" source="12793" target="12790" />
+      <edge id="20" source="12796" target="12790" />
+    </edges>
+  </graph>
+</gexf>

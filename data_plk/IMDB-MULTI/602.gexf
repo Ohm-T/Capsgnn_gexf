@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="8040" label="8040" />
+      <node id="8039" label="8039" />
+      <node id="8044" label="8044" />
+      <node id="8038" label="8038" />
+      <node id="8042" label="8042" />
+      <node id="8041" label="8041" />
+      <node id="8036" label="8036" />
+      <node id="8037" label="8037" />
+      <node id="8043" label="8043" />
+      <node id="8045" label="8045" />
+      <node id="8046" label="8046" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8040" target="8039" />
+      <edge id="1" source="8040" target="8041" />
+      <edge id="2" source="8040" target="8045" />
+      <edge id="3" source="8040" target="8038" />
+      <edge id="4" source="8040" target="8043" />
+      <edge id="5" source="8039" target="8041" />
+      <edge id="6" source="8039" target="8045" />
+      <edge id="7" source="8039" target="8038" />
+      <edge id="8" source="8039" target="8043" />
+      <edge id="9" source="8044" target="8037" />
+      <edge id="10" source="8044" target="8042" />
+      <edge id="11" source="8044" target="8046" />
+      <edge id="12" source="8044" target="8043" />
+      <edge id="13" source="8044" target="8036" />
+      <edge id="14" source="8038" target="8041" />
+      <edge id="15" source="8038" target="8045" />
+      <edge id="16" source="8038" target="8043" />
+      <edge id="17" source="8042" target="8037" />
+      <edge id="18" source="8042" target="8043" />
+      <edge id="19" source="8042" target="8046" />
+      <edge id="20" source="8042" target="8036" />
+      <edge id="21" source="8041" target="8043" />
+      <edge id="22" source="8041" target="8045" />
+      <edge id="23" source="8036" target="8037" />
+      <edge id="24" source="8036" target="8046" />
+      <edge id="25" source="8036" target="8043" />
+      <edge id="26" source="8037" target="8043" />
+      <edge id="27" source="8037" target="8046" />
+      <edge id="28" source="8043" target="8045" />
+      <edge id="29" source="8043" target="8046" />
+    </edges>
+  </graph>
+</gexf>

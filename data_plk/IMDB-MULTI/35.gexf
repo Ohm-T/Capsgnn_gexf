@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="465" label="465" />
+      <node id="454" label="454" />
+      <node id="453" label="453" />
+      <node id="463" label="463" />
+      <node id="451" label="451" />
+      <node id="458" label="458" />
+      <node id="459" label="459" />
+      <node id="461" label="461" />
+      <node id="462" label="462" />
+      <node id="460" label="460" />
+      <node id="452" label="452" />
+      <node id="464" label="464" />
+      <node id="456" label="456" />
+      <node id="455" label="455" />
+      <node id="457" label="457" />
+    </nodes>
+    <edges>
+      <edge id="0" source="465" target="463" />
+      <edge id="1" source="465" target="452" />
+      <edge id="2" source="465" target="454" />
+      <edge id="3" source="465" target="453" />
+      <edge id="4" source="465" target="456" />
+      <edge id="5" source="465" target="459" />
+      <edge id="6" source="465" target="457" />
+      <edge id="7" source="454" target="453" />
+      <edge id="8" source="454" target="463" />
+      <edge id="9" source="454" target="451" />
+      <edge id="10" source="454" target="458" />
+      <edge id="11" source="454" target="459" />
+      <edge id="12" source="454" target="461" />
+      <edge id="13" source="454" target="462" />
+      <edge id="14" source="454" target="460" />
+      <edge id="15" source="454" target="452" />
+      <edge id="16" source="454" target="464" />
+      <edge id="17" source="454" target="456" />
+      <edge id="18" source="454" target="455" />
+      <edge id="19" source="454" target="457" />
+      <edge id="20" source="453" target="463" />
+      <edge id="21" source="453" target="452" />
+      <edge id="22" source="453" target="456" />
+      <edge id="23" source="453" target="459" />
+      <edge id="24" source="453" target="457" />
+      <edge id="25" source="463" target="452" />
+      <edge id="26" source="463" target="456" />
+      <edge id="27" source="463" target="459" />
+      <edge id="28" source="463" target="457" />
+      <edge id="29" source="451" target="460" />
+      <edge id="30" source="451" target="462" />
+      <edge id="31" source="451" target="458" />
+      <edge id="32" source="458" target="460" />
+      <edge id="33" source="458" target="462" />
+      <edge id="34" source="459" target="452" />
+      <edge id="35" source="459" target="456" />
+      <edge id="36" source="459" target="457" />
+      <edge id="37" source="461" target="464" />
+      <edge id="38" source="461" target="455" />
+      <edge id="39" source="462" target="460" />
+      <edge id="40" source="452" target="456" />
+      <edge id="41" source="452" target="457" />
+      <edge id="42" source="464" target="455" />
+      <edge id="43" source="456" target="457" />
+    </edges>
+  </graph>
+</gexf>

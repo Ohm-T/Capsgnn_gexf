@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1955" label="1955">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1950" label="1950">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1962" label="1962">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1954" label="1954">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1969" label="1969">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1960" label="1960">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1949" label="1949">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1953" label="1953">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1971" label="1971">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1957" label="1957">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1956" label="1956">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1961" label="1961">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1959" label="1959">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1970" label="1970">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1951" label="1951">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1967" label="1967">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1958" label="1958">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1965" label="1965">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1966" label="1966">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1972" label="1972">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1948" label="1948">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1952" label="1952">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1964" label="1964">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1963" label="1963">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1968" label="1968">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1955" target="1954" />
+      <edge id="1" source="1955" target="1956" />
+      <edge id="2" source="1950" target="1949" />
+      <edge id="3" source="1950" target="1951" />
+      <edge id="4" source="1962" target="1963" />
+      <edge id="5" source="1962" target="1961" />
+      <edge id="6" source="1962" target="1967" />
+      <edge id="7" source="1954" target="1959" />
+      <edge id="8" source="1954" target="1952" />
+      <edge id="9" source="1969" target="1967" />
+      <edge id="10" source="1960" target="1959" />
+      <edge id="11" source="1960" target="1961" />
+      <edge id="12" source="1960" target="1951" />
+      <edge id="13" source="1949" target="1948" />
+      <edge id="14" source="1953" target="1952" />
+      <edge id="15" source="1953" target="1948" />
+      <edge id="16" source="1971" target="1970" />
+      <edge id="17" source="1957" target="1958" />
+      <edge id="18" source="1957" target="1956" />
+      <edge id="19" source="1956" target="1970" />
+      <edge id="20" source="1959" target="1958" />
+      <edge id="21" source="1970" target="1972" />
+      <edge id="22" source="1951" target="1952" />
+      <edge id="23" source="1967" target="1968" />
+      <edge id="24" source="1958" target="1963" />
+      <edge id="25" source="1965" target="1964" />
+      <edge id="26" source="1966" target="1964" />
+      <edge id="27" source="1964" target="1963" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7018" label="7018" />
+      <node id="7014" label="7014" />
+      <node id="7017" label="7017" />
+      <node id="7011" label="7011" />
+      <node id="7010" label="7010" />
+      <node id="7012" label="7012" />
+      <node id="7015" label="7015" />
+      <node id="7013" label="7013" />
+      <node id="7016" label="7016" />
+    </nodes>
+    <edges>
+      <edge id="0" source="7018" target="7014" />
+      <edge id="1" source="7018" target="7012" />
+      <edge id="2" source="7018" target="7015" />
+      <edge id="3" source="7018" target="7013" />
+      <edge id="4" source="7018" target="7017" />
+      <edge id="5" source="7014" target="7012" />
+      <edge id="6" source="7014" target="7011" />
+      <edge id="7" source="7014" target="7010" />
+      <edge id="8" source="7014" target="7017" />
+      <edge id="9" source="7014" target="7015" />
+      <edge id="10" source="7014" target="7013" />
+      <edge id="11" source="7014" target="7016" />
+      <edge id="12" source="7017" target="7012" />
+      <edge id="13" source="7017" target="7015" />
+      <edge id="14" source="7017" target="7013" />
+      <edge id="15" source="7011" target="7016" />
+      <edge id="16" source="7011" target="7010" />
+      <edge id="17" source="7010" target="7016" />
+      <edge id="18" source="7012" target="7015" />
+      <edge id="19" source="7012" target="7013" />
+      <edge id="20" source="7015" target="7013" />
+    </edges>
+  </graph>
+</gexf>

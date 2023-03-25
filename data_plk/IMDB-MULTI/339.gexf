@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="4796" label="4796" />
+      <node id="4784" label="4784" />
+      <node id="4782" label="4782" />
+      <node id="4797" label="4797" />
+      <node id="4793" label="4793" />
+      <node id="4790" label="4790" />
+      <node id="4781" label="4781" />
+      <node id="4792" label="4792" />
+      <node id="4783" label="4783" />
+      <node id="4785" label="4785" />
+      <node id="4795" label="4795" />
+      <node id="4794" label="4794" />
+      <node id="4798" label="4798" />
+      <node id="4791" label="4791" />
+      <node id="4788" label="4788" />
+      <node id="4787" label="4787" />
+      <node id="4789" label="4789" />
+      <node id="4786" label="4786" />
+    </nodes>
+    <edges>
+      <edge id="0" source="4796" target="4784" />
+      <edge id="1" source="4796" target="4798" />
+      <edge id="2" source="4796" target="4781" />
+      <edge id="3" source="4796" target="4791" />
+      <edge id="4" source="4796" target="4787" />
+      <edge id="5" source="4796" target="4789" />
+      <edge id="6" source="4796" target="4786" />
+      <edge id="7" source="4784" target="4798" />
+      <edge id="8" source="4784" target="4781" />
+      <edge id="9" source="4784" target="4791" />
+      <edge id="10" source="4784" target="4787" />
+      <edge id="11" source="4784" target="4789" />
+      <edge id="12" source="4784" target="4786" />
+      <edge id="13" source="4782" target="4783" />
+      <edge id="14" source="4782" target="4792" />
+      <edge id="15" source="4782" target="4788" />
+      <edge id="16" source="4782" target="4798" />
+      <edge id="17" source="4782" target="4794" />
+      <edge id="18" source="4797" target="4785" />
+      <edge id="19" source="4797" target="4795" />
+      <edge id="20" source="4797" target="4798" />
+      <edge id="21" source="4797" target="4793" />
+      <edge id="22" source="4797" target="4790" />
+      <edge id="23" source="4793" target="4798" />
+      <edge id="24" source="4793" target="4785" />
+      <edge id="25" source="4793" target="4795" />
+      <edge id="26" source="4793" target="4790" />
+      <edge id="27" source="4790" target="4798" />
+      <edge id="28" source="4790" target="4785" />
+      <edge id="29" source="4790" target="4795" />
+      <edge id="30" source="4781" target="4798" />
+      <edge id="31" source="4781" target="4791" />
+      <edge id="32" source="4781" target="4787" />
+      <edge id="33" source="4781" target="4789" />
+      <edge id="34" source="4781" target="4786" />
+      <edge id="35" source="4792" target="4783" />
+      <edge id="36" source="4792" target="4788" />
+      <edge id="37" source="4792" target="4798" />
+      <edge id="38" source="4792" target="4794" />
+      <edge id="39" source="4783" target="4788" />
+      <edge id="40" source="4783" target="4798" />
+      <edge id="41" source="4783" target="4794" />
+      <edge id="42" source="4785" target="4798" />
+      <edge id="43" source="4785" target="4795" />
+      <edge id="44" source="4795" target="4798" />
+      <edge id="45" source="4794" target="4788" />
+      <edge id="46" source="4794" target="4798" />
+      <edge id="47" source="4798" target="4791" />
+      <edge id="48" source="4798" target="4788" />
+      <edge id="49" source="4798" target="4787" />
+      <edge id="50" source="4798" target="4789" />
+      <edge id="51" source="4798" target="4786" />
+      <edge id="52" source="4791" target="4787" />
+      <edge id="53" source="4791" target="4789" />
+      <edge id="54" source="4791" target="4786" />
+      <edge id="55" source="4787" target="4789" />
+      <edge id="56" source="4787" target="4786" />
+      <edge id="57" source="4789" target="4786" />
+    </edges>
+  </graph>
+</gexf>

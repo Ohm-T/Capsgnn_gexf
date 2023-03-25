@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="15042" label="15042" />
+      <node id="15045" label="15045" />
+      <node id="15035" label="15035" />
+      <node id="15039" label="15039" />
+      <node id="15038" label="15038" />
+      <node id="15034" label="15034" />
+      <node id="15044" label="15044" />
+      <node id="15037" label="15037" />
+      <node id="15040" label="15040" />
+      <node id="15041" label="15041" />
+      <node id="15031" label="15031" />
+      <node id="15033" label="15033" />
+      <node id="15030" label="15030" />
+      <node id="15032" label="15032" />
+      <node id="15036" label="15036" />
+      <node id="15043" label="15043" />
+    </nodes>
+    <edges>
+      <edge id="0" source="15042" target="15034" />
+      <edge id="1" source="15042" target="15036" />
+      <edge id="2" source="15042" target="15043" />
+      <edge id="3" source="15042" target="15040" />
+      <edge id="4" source="15045" target="15036" />
+      <edge id="5" source="15045" target="15037" />
+      <edge id="6" source="15035" target="15044" />
+      <edge id="7" source="15035" target="15030" />
+      <edge id="8" source="15035" target="15032" />
+      <edge id="9" source="15035" target="15036" />
+      <edge id="10" source="15039" target="15033" />
+      <edge id="11" source="15039" target="15031" />
+      <edge id="12" source="15039" target="15036" />
+      <edge id="13" source="15039" target="15041" />
+      <edge id="14" source="15039" target="15038" />
+      <edge id="15" source="15038" target="15033" />
+      <edge id="16" source="15038" target="15031" />
+      <edge id="17" source="15038" target="15041" />
+      <edge id="18" source="15038" target="15036" />
+      <edge id="19" source="15034" target="15036" />
+      <edge id="20" source="15034" target="15043" />
+      <edge id="21" source="15034" target="15040" />
+      <edge id="22" source="15044" target="15030" />
+      <edge id="23" source="15044" target="15032" />
+      <edge id="24" source="15044" target="15036" />
+      <edge id="25" source="15037" target="15036" />
+      <edge id="26" source="15040" target="15036" />
+      <edge id="27" source="15040" target="15043" />
+      <edge id="28" source="15041" target="15033" />
+      <edge id="29" source="15041" target="15031" />
+      <edge id="30" source="15041" target="15036" />
+      <edge id="31" source="15031" target="15033" />
+      <edge id="32" source="15031" target="15036" />
+      <edge id="33" source="15033" target="15036" />
+      <edge id="34" source="15030" target="15032" />
+      <edge id="35" source="15030" target="15036" />
+      <edge id="36" source="15032" target="15036" />
+      <edge id="37" source="15036" target="15043" />
+    </edges>
+  </graph>
+</gexf>

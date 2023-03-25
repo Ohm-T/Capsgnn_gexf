@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1993" label="1993" />
+      <node id="1992" label="1992" />
+      <node id="1994" label="1994" />
+      <node id="1991" label="1991" />
+      <node id="1995" label="1995" />
+      <node id="1990" label="1990" />
+      <node id="1996" label="1996" />
+      <node id="1989" label="1989" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1993" target="1992" />
+      <edge id="1" source="1993" target="1994" />
+      <edge id="2" source="1993" target="1991" />
+      <edge id="3" source="1993" target="1995" />
+      <edge id="4" source="1993" target="1990" />
+      <edge id="5" source="1993" target="1996" />
+      <edge id="6" source="1993" target="1989" />
+      <edge id="7" source="1992" target="1994" />
+      <edge id="8" source="1992" target="1991" />
+      <edge id="9" source="1992" target="1995" />
+      <edge id="10" source="1992" target="1990" />
+      <edge id="11" source="1992" target="1996" />
+      <edge id="12" source="1992" target="1989" />
+      <edge id="13" source="1994" target="1991" />
+      <edge id="14" source="1994" target="1995" />
+      <edge id="15" source="1994" target="1990" />
+      <edge id="16" source="1994" target="1996" />
+      <edge id="17" source="1994" target="1989" />
+      <edge id="18" source="1991" target="1990" />
+      <edge id="19" source="1991" target="1995" />
+      <edge id="20" source="1991" target="1996" />
+      <edge id="21" source="1991" target="1989" />
+      <edge id="22" source="1995" target="1990" />
+      <edge id="23" source="1995" target="1996" />
+      <edge id="24" source="1995" target="1989" />
+      <edge id="25" source="1990" target="1996" />
+      <edge id="26" source="1990" target="1989" />
+      <edge id="27" source="1996" target="1989" />
+    </edges>
+  </graph>
+</gexf>

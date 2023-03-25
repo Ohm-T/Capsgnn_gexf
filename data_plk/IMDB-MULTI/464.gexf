@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="6389" label="6389" />
+      <node id="6404" label="6404" />
+      <node id="6405" label="6405" />
+      <node id="6397" label="6397" />
+      <node id="6399" label="6399" />
+      <node id="6400" label="6400" />
+      <node id="6402" label="6402" />
+      <node id="6393" label="6393" />
+      <node id="6406" label="6406" />
+      <node id="6394" label="6394" />
+      <node id="6403" label="6403" />
+      <node id="6395" label="6395" />
+      <node id="6391" label="6391" />
+      <node id="6407" label="6407" />
+      <node id="6398" label="6398" />
+      <node id="6401" label="6401" />
+      <node id="6392" label="6392" />
+      <node id="6390" label="6390" />
+      <node id="6396" label="6396" />
+    </nodes>
+    <edges>
+      <edge id="0" source="6389" target="6399" />
+      <edge id="1" source="6389" target="6403" />
+      <edge id="2" source="6389" target="6397" />
+      <edge id="3" source="6389" target="6407" />
+      <edge id="4" source="6389" target="6402" />
+      <edge id="5" source="6389" target="6400" />
+      <edge id="6" source="6389" target="6390" />
+      <edge id="7" source="6389" target="6406" />
+      <edge id="8" source="6389" target="6392" />
+      <edge id="9" source="6404" target="6393" />
+      <edge id="10" source="6404" target="6400" />
+      <edge id="11" source="6404" target="6391" />
+      <edge id="12" source="6405" target="6395" />
+      <edge id="13" source="6405" target="6401" />
+      <edge id="14" source="6405" target="6400" />
+      <edge id="15" source="6405" target="6394" />
+      <edge id="16" source="6405" target="6406" />
+      <edge id="17" source="6405" target="6396" />
+      <edge id="18" source="6397" target="6403" />
+      <edge id="19" source="6397" target="6407" />
+      <edge id="20" source="6397" target="6402" />
+      <edge id="21" source="6397" target="6399" />
+      <edge id="22" source="6397" target="6400" />
+      <edge id="23" source="6397" target="6390" />
+      <edge id="24" source="6397" target="6392" />
+      <edge id="25" source="6399" target="6403" />
+      <edge id="26" source="6399" target="6407" />
+      <edge id="27" source="6399" target="6402" />
+      <edge id="28" source="6399" target="6401" />
+      <edge id="29" source="6399" target="6400" />
+      <edge id="30" source="6399" target="6390" />
+      <edge id="31" source="6399" target="6392" />
+      <edge id="32" source="6400" target="6402" />
+      <edge id="33" source="6400" target="6393" />
+      <edge id="34" source="6400" target="6406" />
+      <edge id="35" source="6400" target="6394" />
+      <edge id="36" source="6400" target="6403" />
+      <edge id="37" source="6400" target="6395" />
+      <edge id="38" source="6400" target="6391" />
+      <edge id="39" source="6400" target="6407" />
+      <edge id="40" source="6400" target="6398" />
+      <edge id="41" source="6400" target="6401" />
+      <edge id="42" source="6400" target="6392" />
+      <edge id="43" source="6400" target="6390" />
+      <edge id="44" source="6400" target="6396" />
+      <edge id="45" source="6402" target="6403" />
+      <edge id="46" source="6402" target="6407" />
+      <edge id="47" source="6402" target="6390" />
+      <edge id="48" source="6402" target="6392" />
+      <edge id="49" source="6393" target="6391" />
+      <edge id="50" source="6406" target="6395" />
+      <edge id="51" source="6406" target="6401" />
+      <edge id="52" source="6406" target="6394" />
+      <edge id="53" source="6406" target="6396" />
+      <edge id="54" source="6394" target="6395" />
+      <edge id="55" source="6394" target="6401" />
+      <edge id="56" source="6394" target="6396" />
+      <edge id="57" source="6403" target="6407" />
+      <edge id="58" source="6403" target="6390" />
+      <edge id="59" source="6403" target="6392" />
+      <edge id="60" source="6395" target="6401" />
+      <edge id="61" source="6395" target="6396" />
+      <edge id="62" source="6391" target="6398" />
+      <edge id="63" source="6407" target="6390" />
+      <edge id="64" source="6407" target="6392" />
+      <edge id="65" source="6401" target="6396" />
+      <edge id="66" source="6392" target="6390" />
+    </edges>
+  </graph>
+</gexf>

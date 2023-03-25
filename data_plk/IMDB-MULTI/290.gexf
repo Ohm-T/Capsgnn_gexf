@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="4143" label="4143" />
+      <node id="4131" label="4131" />
+      <node id="4138" label="4138" />
+      <node id="4136" label="4136" />
+      <node id="4133" label="4133" />
+      <node id="4147" label="4147" />
+      <node id="4130" label="4130" />
+      <node id="4142" label="4142" />
+      <node id="4134" label="4134" />
+      <node id="4141" label="4141" />
+      <node id="4146" label="4146" />
+      <node id="4132" label="4132" />
+      <node id="4149" label="4149" />
+      <node id="4145" label="4145" />
+      <node id="4140" label="4140" />
+      <node id="4148" label="4148" />
+      <node id="4144" label="4144" />
+      <node id="4137" label="4137" />
+      <node id="4139" label="4139" />
+      <node id="4135" label="4135" />
+    </nodes>
+    <edges>
+      <edge id="0" source="4143" target="4146" />
+      <edge id="1" source="4143" target="4142" />
+      <edge id="2" source="4143" target="4137" />
+      <edge id="3" source="4143" target="4149" />
+      <edge id="4" source="4143" target="4144" />
+      <edge id="5" source="4131" target="4132" />
+      <edge id="6" source="4131" target="4130" />
+      <edge id="7" source="4131" target="4145" />
+      <edge id="8" source="4131" target="4139" />
+      <edge id="9" source="4131" target="4144" />
+      <edge id="10" source="4138" target="4136" />
+      <edge id="11" source="4138" target="4144" />
+      <edge id="12" source="4138" target="4134" />
+      <edge id="13" source="4138" target="4141" />
+      <edge id="14" source="4136" target="4141" />
+      <edge id="15" source="4136" target="4144" />
+      <edge id="16" source="4136" target="4134" />
+      <edge id="17" source="4133" target="4140" />
+      <edge id="18" source="4133" target="4148" />
+      <edge id="19" source="4133" target="4147" />
+      <edge id="20" source="4133" target="4135" />
+      <edge id="21" source="4133" target="4144" />
+      <edge id="22" source="4147" target="4140" />
+      <edge id="23" source="4147" target="4148" />
+      <edge id="24" source="4147" target="4135" />
+      <edge id="25" source="4147" target="4144" />
+      <edge id="26" source="4130" target="4132" />
+      <edge id="27" source="4130" target="4139" />
+      <edge id="28" source="4130" target="4145" />
+      <edge id="29" source="4130" target="4144" />
+      <edge id="30" source="4142" target="4146" />
+      <edge id="31" source="4142" target="4137" />
+      <edge id="32" source="4142" target="4149" />
+      <edge id="33" source="4142" target="4144" />
+      <edge id="34" source="4134" target="4144" />
+      <edge id="35" source="4134" target="4141" />
+      <edge id="36" source="4141" target="4144" />
+      <edge id="37" source="4146" target="4137" />
+      <edge id="38" source="4146" target="4149" />
+      <edge id="39" source="4146" target="4144" />
+      <edge id="40" source="4132" target="4145" />
+      <edge id="41" source="4132" target="4139" />
+      <edge id="42" source="4132" target="4144" />
+      <edge id="43" source="4149" target="4137" />
+      <edge id="44" source="4149" target="4144" />
+      <edge id="45" source="4145" target="4139" />
+      <edge id="46" source="4145" target="4144" />
+      <edge id="47" source="4140" target="4148" />
+      <edge id="48" source="4140" target="4135" />
+      <edge id="49" source="4140" target="4144" />
+      <edge id="50" source="4148" target="4135" />
+      <edge id="51" source="4148" target="4144" />
+      <edge id="52" source="4144" target="4137" />
+      <edge id="53" source="4144" target="4139" />
+      <edge id="54" source="4144" target="4135" />
+    </edges>
+  </graph>
+</gexf>

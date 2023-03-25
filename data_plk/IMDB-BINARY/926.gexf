@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="18348" label="18348" />
+      <node id="18350" label="18350" />
+      <node id="18346" label="18346" />
+      <node id="18351" label="18351" />
+      <node id="18354" label="18354" />
+      <node id="18359" label="18359" />
+      <node id="18358" label="18358" />
+      <node id="18357" label="18357" />
+      <node id="18362" label="18362" />
+      <node id="18352" label="18352" />
+      <node id="18360" label="18360" />
+      <node id="18349" label="18349" />
+      <node id="18345" label="18345" />
+      <node id="18355" label="18355" />
+      <node id="18364" label="18364" />
+      <node id="18347" label="18347" />
+      <node id="18353" label="18353" />
+      <node id="18363" label="18363" />
+      <node id="18361" label="18361" />
+      <node id="18356" label="18356" />
+    </nodes>
+    <edges>
+      <edge id="0" source="18348" target="18349" />
+      <edge id="1" source="18348" target="18356" />
+      <edge id="2" source="18348" target="18354" />
+      <edge id="3" source="18348" target="18352" />
+      <edge id="4" source="18350" target="18349" />
+      <edge id="5" source="18350" target="18357" />
+      <edge id="6" source="18350" target="18351" />
+      <edge id="7" source="18350" target="18363" />
+      <edge id="8" source="18346" target="18349" />
+      <edge id="9" source="18346" target="18358" />
+      <edge id="10" source="18346" target="18362" />
+      <edge id="11" source="18346" target="18345" />
+      <edge id="12" source="18346" target="18360" />
+      <edge id="13" source="18351" target="18349" />
+      <edge id="14" source="18351" target="18357" />
+      <edge id="15" source="18351" target="18363" />
+      <edge id="16" source="18354" target="18349" />
+      <edge id="17" source="18354" target="18356" />
+      <edge id="18" source="18354" target="18352" />
+      <edge id="19" source="18359" target="18349" />
+      <edge id="20" source="18359" target="18353" />
+      <edge id="21" source="18359" target="18357" />
+      <edge id="22" source="18359" target="18355" />
+      <edge id="23" source="18358" target="18349" />
+      <edge id="24" source="18358" target="18362" />
+      <edge id="25" source="18358" target="18345" />
+      <edge id="26" source="18358" target="18360" />
+      <edge id="27" source="18357" target="18349" />
+      <edge id="28" source="18357" target="18361" />
+      <edge id="29" source="18357" target="18355" />
+      <edge id="30" source="18357" target="18347" />
+      <edge id="31" source="18357" target="18353" />
+      <edge id="32" source="18357" target="18364" />
+      <edge id="33" source="18357" target="18363" />
+      <edge id="34" source="18362" target="18349" />
+      <edge id="35" source="18362" target="18345" />
+      <edge id="36" source="18362" target="18360" />
+      <edge id="37" source="18352" target="18349" />
+      <edge id="38" source="18352" target="18356" />
+      <edge id="39" source="18360" target="18349" />
+      <edge id="40" source="18360" target="18345" />
+      <edge id="41" source="18349" target="18356" />
+      <edge id="42" source="18349" target="18361" />
+      <edge id="43" source="18349" target="18345" />
+      <edge id="44" source="18349" target="18355" />
+      <edge id="45" source="18349" target="18364" />
+      <edge id="46" source="18349" target="18347" />
+      <edge id="47" source="18349" target="18353" />
+      <edge id="48" source="18349" target="18363" />
+      <edge id="49" source="18355" target="18353" />
+      <edge id="50" source="18364" target="18361" />
+      <edge id="51" source="18364" target="18347" />
+      <edge id="52" source="18347" target="18361" />
+    </edges>
+  </graph>
+</gexf>

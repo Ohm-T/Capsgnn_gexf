@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="8993" label="8993" />
+      <node id="8995" label="8995" />
+      <node id="9004" label="9004" />
+      <node id="8989" label="8989" />
+      <node id="9005" label="9005" />
+      <node id="9003" label="9003" />
+      <node id="8999" label="8999" />
+      <node id="9001" label="9001" />
+      <node id="9000" label="9000" />
+      <node id="8998" label="8998" />
+      <node id="8994" label="8994" />
+      <node id="9007" label="9007" />
+      <node id="8991" label="8991" />
+      <node id="9002" label="9002" />
+      <node id="9006" label="9006" />
+      <node id="8992" label="8992" />
+      <node id="8990" label="8990" />
+      <node id="8996" label="8996" />
+      <node id="8987" label="8987" />
+      <node id="8997" label="8997" />
+      <node id="8988" label="8988" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8993" target="8995" />
+      <edge id="1" source="8993" target="9001" />
+      <edge id="2" source="8993" target="9002" />
+      <edge id="3" source="8993" target="9006" />
+      <edge id="4" source="8995" target="8996" />
+      <edge id="5" source="8995" target="9001" />
+      <edge id="6" source="8995" target="9002" />
+      <edge id="7" source="8995" target="9006" />
+      <edge id="8" source="9004" target="9007" />
+      <edge id="9" source="9004" target="8991" />
+      <edge id="10" source="9004" target="9001" />
+      <edge id="11" source="8989" target="9001" />
+      <edge id="12" source="8989" target="9000" />
+      <edge id="13" source="8989" target="8998" />
+      <edge id="14" source="8989" target="8988" />
+      <edge id="15" source="9005" target="8994" />
+      <edge id="16" source="9005" target="8999" />
+      <edge id="17" source="9005" target="9003" />
+      <edge id="18" source="9005" target="8992" />
+      <edge id="19" source="9005" target="8996" />
+      <edge id="20" source="9005" target="9001" />
+      <edge id="21" source="9003" target="8994" />
+      <edge id="22" source="9003" target="8999" />
+      <edge id="23" source="9003" target="8992" />
+      <edge id="24" source="9003" target="8996" />
+      <edge id="25" source="9003" target="9001" />
+      <edge id="26" source="8999" target="8994" />
+      <edge id="27" source="8999" target="8992" />
+      <edge id="28" source="8999" target="8996" />
+      <edge id="29" source="8999" target="9001" />
+      <edge id="30" source="9001" target="9000" />
+      <edge id="31" source="9001" target="8998" />
+      <edge id="32" source="9001" target="8994" />
+      <edge id="33" source="9001" target="9007" />
+      <edge id="34" source="9001" target="8991" />
+      <edge id="35" source="9001" target="9002" />
+      <edge id="36" source="9001" target="9006" />
+      <edge id="37" source="9001" target="8992" />
+      <edge id="38" source="9001" target="8990" />
+      <edge id="39" source="9001" target="8996" />
+      <edge id="40" source="9001" target="8987" />
+      <edge id="41" source="9001" target="8997" />
+      <edge id="42" source="9001" target="8988" />
+      <edge id="43" source="9000" target="8998" />
+      <edge id="44" source="9000" target="8988" />
+      <edge id="45" source="8998" target="8988" />
+      <edge id="46" source="8994" target="8992" />
+      <edge id="47" source="8994" target="8996" />
+      <edge id="48" source="9007" target="8991" />
+      <edge id="49" source="9002" target="9006" />
+      <edge id="50" source="8992" target="8996" />
+      <edge id="51" source="8990" target="8987" />
+      <edge id="52" source="8990" target="8997" />
+      <edge id="53" source="8987" target="8997" />
+    </edges>
+  </graph>
+</gexf>

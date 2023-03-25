@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="9016" label="9016" />
+      <node id="9008" label="9008" />
+      <node id="9020" label="9020" />
+      <node id="9012" label="9012" />
+      <node id="9014" label="9014" />
+      <node id="9017" label="9017" />
+      <node id="9013" label="9013" />
+      <node id="9019" label="9019" />
+      <node id="9015" label="9015" />
+      <node id="9011" label="9011" />
+      <node id="9010" label="9010" />
+      <node id="9021" label="9021" />
+      <node id="9018" label="9018" />
+      <node id="9009" label="9009" />
+    </nodes>
+    <edges>
+      <edge id="0" source="9016" target="9019" />
+      <edge id="1" source="9016" target="9017" />
+      <edge id="2" source="9016" target="9015" />
+      <edge id="3" source="9016" target="9011" />
+      <edge id="4" source="9016" target="9009" />
+      <edge id="5" source="9016" target="9018" />
+      <edge id="6" source="9016" target="9012" />
+      <edge id="7" source="9016" target="9020" />
+      <edge id="8" source="9016" target="9013" />
+      <edge id="9" source="9008" target="9010" />
+      <edge id="10" source="9008" target="9021" />
+      <edge id="11" source="9008" target="9014" />
+      <edge id="12" source="9008" target="9009" />
+      <edge id="13" source="9008" target="9011" />
+      <edge id="14" source="9020" target="9019" />
+      <edge id="15" source="9020" target="9017" />
+      <edge id="16" source="9020" target="9018" />
+      <edge id="17" source="9020" target="9015" />
+      <edge id="18" source="9020" target="9011" />
+      <edge id="19" source="9020" target="9009" />
+      <edge id="20" source="9020" target="9012" />
+      <edge id="21" source="9020" target="9013" />
+      <edge id="22" source="9012" target="9019" />
+      <edge id="23" source="9012" target="9018" />
+      <edge id="24" source="9012" target="9015" />
+      <edge id="25" source="9012" target="9011" />
+      <edge id="26" source="9012" target="9017" />
+      <edge id="27" source="9012" target="9009" />
+      <edge id="28" source="9012" target="9013" />
+      <edge id="29" source="9014" target="9010" />
+      <edge id="30" source="9014" target="9021" />
+      <edge id="31" source="9014" target="9009" />
+      <edge id="32" source="9014" target="9011" />
+      <edge id="33" source="9017" target="9019" />
+      <edge id="34" source="9017" target="9018" />
+      <edge id="35" source="9017" target="9015" />
+      <edge id="36" source="9017" target="9011" />
+      <edge id="37" source="9017" target="9009" />
+      <edge id="38" source="9017" target="9013" />
+      <edge id="39" source="9013" target="9019" />
+      <edge id="40" source="9013" target="9018" />
+      <edge id="41" source="9013" target="9015" />
+      <edge id="42" source="9013" target="9011" />
+      <edge id="43" source="9013" target="9009" />
+      <edge id="44" source="9019" target="9018" />
+      <edge id="45" source="9019" target="9015" />
+      <edge id="46" source="9019" target="9011" />
+      <edge id="47" source="9019" target="9009" />
+      <edge id="48" source="9015" target="9018" />
+      <edge id="49" source="9015" target="9011" />
+      <edge id="50" source="9015" target="9009" />
+      <edge id="51" source="9011" target="9010" />
+      <edge id="52" source="9011" target="9021" />
+      <edge id="53" source="9011" target="9018" />
+      <edge id="54" source="9011" target="9009" />
+      <edge id="55" source="9010" target="9021" />
+      <edge id="56" source="9010" target="9009" />
+      <edge id="57" source="9021" target="9009" />
+      <edge id="58" source="9018" target="9009" />
+    </edges>
+  </graph>
+</gexf>

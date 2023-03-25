@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="16670" label="16670" />
+      <node id="16672" label="16672" />
+      <node id="16675" label="16675" />
+      <node id="16674" label="16674" />
+      <node id="16673" label="16673" />
+      <node id="16667" label="16667" />
+      <node id="16664" label="16664" />
+      <node id="16665" label="16665" />
+      <node id="16677" label="16677" />
+      <node id="16676" label="16676" />
+      <node id="16668" label="16668" />
+      <node id="16671" label="16671" />
+      <node id="16669" label="16669" />
+      <node id="16666" label="16666" />
+      <node id="16678" label="16678" />
+    </nodes>
+    <edges>
+      <edge id="0" source="16670" target="16667" />
+      <edge id="1" source="16670" target="16677" />
+      <edge id="2" source="16670" target="16675" />
+      <edge id="3" source="16670" target="16671" />
+      <edge id="4" source="16670" target="16669" />
+      <edge id="5" source="16670" target="16666" />
+      <edge id="6" source="16670" target="16674" />
+      <edge id="7" source="16672" target="16673" />
+      <edge id="8" source="16672" target="16664" />
+      <edge id="9" source="16672" target="16665" />
+      <edge id="10" source="16672" target="16676" />
+      <edge id="11" source="16672" target="16668" />
+      <edge id="12" source="16672" target="16669" />
+      <edge id="13" source="16672" target="16678" />
+      <edge id="14" source="16675" target="16667" />
+      <edge id="15" source="16675" target="16677" />
+      <edge id="16" source="16675" target="16671" />
+      <edge id="17" source="16675" target="16669" />
+      <edge id="18" source="16675" target="16666" />
+      <edge id="19" source="16675" target="16674" />
+      <edge id="20" source="16674" target="16667" />
+      <edge id="21" source="16674" target="16677" />
+      <edge id="22" source="16674" target="16671" />
+      <edge id="23" source="16674" target="16669" />
+      <edge id="24" source="16674" target="16666" />
+      <edge id="25" source="16673" target="16664" />
+      <edge id="26" source="16673" target="16665" />
+      <edge id="27" source="16673" target="16676" />
+      <edge id="28" source="16673" target="16668" />
+      <edge id="29" source="16673" target="16669" />
+      <edge id="30" source="16673" target="16678" />
+      <edge id="31" source="16667" target="16677" />
+      <edge id="32" source="16667" target="16671" />
+      <edge id="33" source="16667" target="16669" />
+      <edge id="34" source="16667" target="16666" />
+      <edge id="35" source="16664" target="16665" />
+      <edge id="36" source="16664" target="16676" />
+      <edge id="37" source="16664" target="16668" />
+      <edge id="38" source="16664" target="16669" />
+      <edge id="39" source="16664" target="16678" />
+      <edge id="40" source="16665" target="16676" />
+      <edge id="41" source="16665" target="16668" />
+      <edge id="42" source="16665" target="16669" />
+      <edge id="43" source="16665" target="16678" />
+      <edge id="44" source="16677" target="16671" />
+      <edge id="45" source="16677" target="16669" />
+      <edge id="46" source="16677" target="16666" />
+      <edge id="47" source="16676" target="16668" />
+      <edge id="48" source="16676" target="16669" />
+      <edge id="49" source="16676" target="16678" />
+      <edge id="50" source="16668" target="16669" />
+      <edge id="51" source="16668" target="16678" />
+      <edge id="52" source="16671" target="16669" />
+      <edge id="53" source="16671" target="16666" />
+      <edge id="54" source="16669" target="16678" />
+      <edge id="55" source="16669" target="16666" />
+    </edges>
+  </graph>
+</gexf>

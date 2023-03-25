@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="289" label="289" />
+      <node id="294" label="294" />
+      <node id="302" label="302" />
+      <node id="291" label="291" />
+      <node id="303" label="303" />
+      <node id="300" label="300" />
+      <node id="288" label="288" />
+      <node id="301" label="301" />
+      <node id="295" label="295" />
+      <node id="304" label="304" />
+      <node id="305" label="305" />
+      <node id="293" label="293" />
+      <node id="306" label="306" />
+      <node id="297" label="297" />
+      <node id="290" label="290" />
+      <node id="307" label="307" />
+      <node id="299" label="299" />
+      <node id="296" label="296" />
+      <node id="298" label="298" />
+      <node id="292" label="292" />
+    </nodes>
+    <edges>
+      <edge id="0" source="289" target="305" />
+      <edge id="1" source="289" target="300" />
+      <edge id="2" source="289" target="302" />
+      <edge id="3" source="289" target="298" />
+      <edge id="4" source="289" target="306" />
+      <edge id="5" source="289" target="307" />
+      <edge id="6" source="289" target="299" />
+      <edge id="7" source="289" target="296" />
+      <edge id="8" source="289" target="292" />
+      <edge id="9" source="289" target="288" />
+      <edge id="10" source="289" target="295" />
+      <edge id="11" source="294" target="293" />
+      <edge id="12" source="294" target="302" />
+      <edge id="13" source="294" target="291" />
+      <edge id="14" source="294" target="303" />
+      <edge id="15" source="294" target="290" />
+      <edge id="16" source="294" target="297" />
+      <edge id="17" source="294" target="301" />
+      <edge id="18" source="294" target="292" />
+      <edge id="19" source="294" target="304" />
+      <edge id="20" source="294" target="295" />
+      <edge id="21" source="302" target="291" />
+      <edge id="22" source="302" target="303" />
+      <edge id="23" source="302" target="300" />
+      <edge id="24" source="302" target="288" />
+      <edge id="25" source="302" target="301" />
+      <edge id="26" source="302" target="295" />
+      <edge id="27" source="302" target="304" />
+      <edge id="28" source="302" target="305" />
+      <edge id="29" source="302" target="293" />
+      <edge id="30" source="302" target="306" />
+      <edge id="31" source="302" target="297" />
+      <edge id="32" source="302" target="290" />
+      <edge id="33" source="302" target="307" />
+      <edge id="34" source="302" target="299" />
+      <edge id="35" source="302" target="296" />
+      <edge id="36" source="302" target="298" />
+      <edge id="37" source="302" target="292" />
+      <edge id="38" source="291" target="293" />
+      <edge id="39" source="291" target="292" />
+      <edge id="40" source="291" target="303" />
+      <edge id="41" source="291" target="290" />
+      <edge id="42" source="291" target="301" />
+      <edge id="43" source="291" target="295" />
+      <edge id="44" source="291" target="304" />
+      <edge id="45" source="291" target="297" />
+      <edge id="46" source="303" target="293" />
+      <edge id="47" source="303" target="290" />
+      <edge id="48" source="303" target="297" />
+      <edge id="49" source="303" target="301" />
+      <edge id="50" source="303" target="292" />
+      <edge id="51" source="303" target="304" />
+      <edge id="52" source="303" target="299" />
+      <edge id="53" source="303" target="295" />
+      <edge id="54" source="300" target="305" />
+      <edge id="55" source="300" target="295" />
+      <edge id="56" source="300" target="298" />
+      <edge id="57" source="300" target="306" />
+      <edge id="58" source="300" target="307" />
+      <edge id="59" source="300" target="299" />
+      <edge id="60" source="300" target="296" />
+      <edge id="61" source="300" target="292" />
+      <edge id="62" source="300" target="288" />
+      <edge id="63" source="288" target="298" />
+      <edge id="64" source="288" target="306" />
+      <edge id="65" source="288" target="307" />
+      <edge id="66" source="288" target="299" />
+      <edge id="67" source="288" target="296" />
+      <edge id="68" source="288" target="305" />
+      <edge id="69" source="288" target="292" />
+      <edge id="70" source="288" target="295" />
+      <edge id="71" source="301" target="293" />
+      <edge id="72" source="301" target="290" />
+      <edge id="73" source="301" target="297" />
+      <edge id="74" source="301" target="292" />
+      <edge id="75" source="301" target="304" />
+      <edge id="76" source="301" target="295" />
+      <edge id="77" source="295" target="304" />
+      <edge id="78" source="295" target="305" />
+      <edge id="79" source="295" target="293" />
+      <edge id="80" source="295" target="306" />
+      <edge id="81" source="295" target="297" />
+      <edge id="82" source="295" target="290" />
+      <edge id="83" source="295" target="307" />
+      <edge id="84" source="295" target="299" />
+      <edge id="85" source="295" target="296" />
+      <edge id="86" source="295" target="298" />
+      <edge id="87" source="295" target="292" />
+      <edge id="88" source="304" target="293" />
+      <edge id="89" source="304" target="290" />
+      <edge id="90" source="304" target="297" />
+      <edge id="91" source="304" target="292" />
+      <edge id="92" source="305" target="298" />
+      <edge id="93" source="305" target="306" />
+      <edge id="94" source="305" target="307" />
+      <edge id="95" source="305" target="299" />
+      <edge id="96" source="305" target="296" />
+      <edge id="97" source="305" target="292" />
+      <edge id="98" source="293" target="290" />
+      <edge id="99" source="293" target="297" />
+      <edge id="100" source="293" target="292" />
+      <edge id="101" source="306" target="298" />
+      <edge id="102" source="306" target="307" />
+      <edge id="103" source="306" target="299" />
+      <edge id="104" source="306" target="296" />
+      <edge id="105" source="306" target="292" />
+      <edge id="106" source="297" target="290" />
+      <edge id="107" source="297" target="292" />
+      <edge id="108" source="290" target="299" />
+      <edge id="109" source="290" target="292" />
+      <edge id="110" source="307" target="298" />
+      <edge id="111" source="307" target="299" />
+      <edge id="112" source="307" target="296" />
+      <edge id="113" source="307" target="292" />
+      <edge id="114" source="299" target="292" />
+      <edge id="115" source="299" target="296" />
+      <edge id="116" source="299" target="298" />
+      <edge id="117" source="296" target="298" />
+      <edge id="118" source="296" target="292" />
+      <edge id="119" source="298" target="292" />
+    </edges>
+  </graph>
+</gexf>

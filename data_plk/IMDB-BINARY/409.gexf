@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="8049" label="8049" />
+      <node id="8073" label="8073" />
+      <node id="8077" label="8077" />
+      <node id="8053" label="8053" />
+      <node id="8061" label="8061" />
+      <node id="8059" label="8059" />
+      <node id="8075" label="8075" />
+      <node id="8074" label="8074" />
+      <node id="8072" label="8072" />
+      <node id="8063" label="8063" />
+      <node id="8056" label="8056" />
+      <node id="8060" label="8060" />
+      <node id="8062" label="8062" />
+      <node id="8058" label="8058" />
+      <node id="8064" label="8064" />
+      <node id="8070" label="8070" />
+      <node id="8048" label="8048" />
+      <node id="8068" label="8068" />
+      <node id="8051" label="8051" />
+      <node id="8046" label="8046" />
+      <node id="8054" label="8054" />
+      <node id="8050" label="8050" />
+      <node id="8065" label="8065" />
+      <node id="8057" label="8057" />
+      <node id="8052" label="8052" />
+      <node id="8055" label="8055" />
+      <node id="8076" label="8076" />
+      <node id="8071" label="8071" />
+      <node id="8069" label="8069" />
+      <node id="8067" label="8067" />
+      <node id="8078" label="8078" />
+      <node id="8047" label="8047" />
+      <node id="8066" label="8066" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8049" target="8062" />
+      <edge id="1" source="8049" target="8073" />
+      <edge id="2" source="8049" target="8076" />
+      <edge id="3" source="8049" target="8074" />
+      <edge id="4" source="8049" target="8048" />
+      <edge id="5" source="8049" target="8068" />
+      <edge id="6" source="8049" target="8063" />
+      <edge id="7" source="8049" target="8046" />
+      <edge id="8" source="8049" target="8077" />
+      <edge id="9" source="8049" target="8066" />
+      <edge id="10" source="8073" target="8062" />
+      <edge id="11" source="8073" target="8077" />
+      <edge id="12" source="8073" target="8074" />
+      <edge id="13" source="8073" target="8048" />
+      <edge id="14" source="8073" target="8068" />
+      <edge id="15" source="8073" target="8063" />
+      <edge id="16" source="8073" target="8046" />
+      <edge id="17" source="8073" target="8066" />
+      <edge id="18" source="8077" target="8062" />
+      <edge id="19" source="8077" target="8076" />
+      <edge id="20" source="8077" target="8074" />
+      <edge id="21" source="8077" target="8048" />
+      <edge id="22" source="8077" target="8068" />
+      <edge id="23" source="8077" target="8063" />
+      <edge id="24" source="8077" target="8046" />
+      <edge id="25" source="8077" target="8066" />
+      <edge id="26" source="8053" target="8071" />
+      <edge id="27" source="8053" target="8058" />
+      <edge id="28" source="8053" target="8054" />
+      <edge id="29" source="8053" target="8069" />
+      <edge id="30" source="8053" target="8063" />
+      <edge id="31" source="8053" target="8056" />
+      <edge id="32" source="8053" target="8060" />
+      <edge id="33" source="8061" target="8065" />
+      <edge id="34" source="8061" target="8063" />
+      <edge id="35" source="8061" target="8078" />
+      <edge id="36" source="8061" target="8047" />
+      <edge id="37" source="8061" target="8052" />
+      <edge id="38" source="8059" target="8063" />
+      <edge id="39" source="8059" target="8057" />
+      <edge id="40" source="8059" target="8070" />
+      <edge id="41" source="8059" target="8072" />
+      <edge id="42" source="8059" target="8067" />
+      <edge id="43" source="8075" target="8064" />
+      <edge id="44" source="8075" target="8051" />
+      <edge id="45" source="8075" target="8063" />
+      <edge id="46" source="8074" target="8062" />
+      <edge id="47" source="8074" target="8048" />
+      <edge id="48" source="8074" target="8068" />
+      <edge id="49" source="8074" target="8063" />
+      <edge id="50" source="8074" target="8046" />
+      <edge id="51" source="8074" target="8066" />
+      <edge id="52" source="8072" target="8070" />
+      <edge id="53" source="8072" target="8063" />
+      <edge id="54" source="8072" target="8057" />
+      <edge id="55" source="8072" target="8067" />
+      <edge id="56" source="8063" target="8056" />
+      <edge id="57" source="8063" target="8067" />
+      <edge id="58" source="8063" target="8062" />
+      <edge id="59" source="8063" target="8058" />
+      <edge id="60" source="8063" target="8064" />
+      <edge id="61" source="8063" target="8070" />
+      <edge id="62" source="8063" target="8048" />
+      <edge id="63" source="8063" target="8068" />
+      <edge id="64" source="8063" target="8051" />
+      <edge id="65" source="8063" target="8046" />
+      <edge id="66" source="8063" target="8054" />
+      <edge id="67" source="8063" target="8050" />
+      <edge id="68" source="8063" target="8065" />
+      <edge id="69" source="8063" target="8057" />
+      <edge id="70" source="8063" target="8052" />
+      <edge id="71" source="8063" target="8055" />
+      <edge id="72" source="8063" target="8076" />
+      <edge id="73" source="8063" target="8071" />
+      <edge id="74" source="8063" target="8069" />
+      <edge id="75" source="8063" target="8060" />
+      <edge id="76" source="8063" target="8078" />
+      <edge id="77" source="8063" target="8047" />
+      <edge id="78" source="8063" target="8066" />
+      <edge id="79" source="8056" target="8071" />
+      <edge id="80" source="8056" target="8058" />
+      <edge id="81" source="8056" target="8069" />
+      <edge id="82" source="8056" target="8054" />
+      <edge id="83" source="8056" target="8060" />
+      <edge id="84" source="8060" target="8071" />
+      <edge id="85" source="8060" target="8058" />
+      <edge id="86" source="8060" target="8054" />
+      <edge id="87" source="8060" target="8069" />
+      <edge id="88" source="8062" target="8048" />
+      <edge id="89" source="8062" target="8068" />
+      <edge id="90" source="8062" target="8046" />
+      <edge id="91" source="8062" target="8066" />
+      <edge id="92" source="8058" target="8071" />
+      <edge id="93" source="8058" target="8054" />
+      <edge id="94" source="8058" target="8069" />
+      <edge id="95" source="8064" target="8051" />
+      <edge id="96" source="8070" target="8057" />
+      <edge id="97" source="8070" target="8067" />
+      <edge id="98" source="8048" target="8076" />
+      <edge id="99" source="8048" target="8068" />
+      <edge id="100" source="8048" target="8046" />
+      <edge id="101" source="8048" target="8066" />
+      <edge id="102" source="8068" target="8076" />
+      <edge id="103" source="8068" target="8046" />
+      <edge id="104" source="8068" target="8066" />
+      <edge id="105" source="8046" target="8076" />
+      <edge id="106" source="8046" target="8066" />
+      <edge id="107" source="8054" target="8071" />
+      <edge id="108" source="8054" target="8069" />
+      <edge id="109" source="8050" target="8078" />
+      <edge id="110" source="8050" target="8052" />
+      <edge id="111" source="8050" target="8055" />
+      <edge id="112" source="8065" target="8078" />
+      <edge id="113" source="8065" target="8047" />
+      <edge id="114" source="8065" target="8052" />
+      <edge id="115" source="8057" target="8067" />
+      <edge id="116" source="8052" target="8055" />
+      <edge id="117" source="8052" target="8078" />
+      <edge id="118" source="8052" target="8047" />
+      <edge id="119" source="8055" target="8078" />
+      <edge id="120" source="8076" target="8066" />
+      <edge id="121" source="8071" target="8069" />
+      <edge id="122" source="8078" target="8047" />
+    </edges>
+  </graph>
+</gexf>

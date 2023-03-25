@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="402" label="402" />
+      <node id="404" label="404" />
+      <node id="399" label="399" />
+      <node id="401" label="401" />
+      <node id="398" label="398" />
+      <node id="400" label="400" />
+      <node id="403" label="403" />
+    </nodes>
+    <edges>
+      <edge id="0" source="402" target="404" />
+      <edge id="1" source="402" target="399" />
+      <edge id="2" source="402" target="401" />
+      <edge id="3" source="402" target="398" />
+      <edge id="4" source="402" target="400" />
+      <edge id="5" source="402" target="403" />
+      <edge id="6" source="404" target="399" />
+      <edge id="7" source="404" target="401" />
+      <edge id="8" source="404" target="398" />
+      <edge id="9" source="404" target="400" />
+      <edge id="10" source="404" target="403" />
+      <edge id="11" source="399" target="401" />
+      <edge id="12" source="399" target="398" />
+      <edge id="13" source="399" target="400" />
+      <edge id="14" source="399" target="403" />
+      <edge id="15" source="401" target="398" />
+      <edge id="16" source="401" target="400" />
+      <edge id="17" source="401" target="403" />
+      <edge id="18" source="398" target="400" />
+      <edge id="19" source="398" target="403" />
+      <edge id="20" source="400" target="403" />
+    </edges>
+  </graph>
+</gexf>

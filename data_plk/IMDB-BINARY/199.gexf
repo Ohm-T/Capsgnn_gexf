@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="4020" label="4020" />
+      <node id="4022" label="4022" />
+      <node id="4026" label="4026" />
+      <node id="4016" label="4016" />
+      <node id="4014" label="4014" />
+      <node id="4025" label="4025" />
+      <node id="4031" label="4031" />
+      <node id="4024" label="4024" />
+      <node id="4017" label="4017" />
+      <node id="4023" label="4023" />
+      <node id="4030" label="4030" />
+      <node id="4027" label="4027" />
+      <node id="4028" label="4028" />
+      <node id="4015" label="4015" />
+      <node id="4018" label="4018" />
+      <node id="4029" label="4029" />
+      <node id="4019" label="4019" />
+      <node id="4021" label="4021" />
+    </nodes>
+    <edges>
+      <edge id="0" source="4020" target="4028" />
+      <edge id="1" source="4020" target="4025" />
+      <edge id="2" source="4020" target="4016" />
+      <edge id="3" source="4020" target="4031" />
+      <edge id="4" source="4022" target="4017" />
+      <edge id="5" source="4022" target="4025" />
+      <edge id="6" source="4022" target="4018" />
+      <edge id="7" source="4022" target="4029" />
+      <edge id="8" source="4022" target="4027" />
+      <edge id="9" source="4022" target="4019" />
+      <edge id="10" source="4026" target="4025" />
+      <edge id="11" source="4026" target="4028" />
+      <edge id="12" source="4026" target="4023" />
+      <edge id="13" source="4026" target="4016" />
+      <edge id="14" source="4026" target="4021" />
+      <edge id="15" source="4016" target="4023" />
+      <edge id="16" source="4016" target="4031" />
+      <edge id="17" source="4016" target="4028" />
+      <edge id="18" source="4016" target="4025" />
+      <edge id="19" source="4016" target="4021" />
+      <edge id="20" source="4014" target="4028" />
+      <edge id="21" source="4014" target="4015" />
+      <edge id="22" source="4014" target="4030" />
+      <edge id="23" source="4014" target="4025" />
+      <edge id="24" source="4014" target="4024" />
+      <edge id="25" source="4025" target="4027" />
+      <edge id="26" source="4025" target="4031" />
+      <edge id="27" source="4025" target="4024" />
+      <edge id="28" source="4025" target="4017" />
+      <edge id="29" source="4025" target="4023" />
+      <edge id="30" source="4025" target="4030" />
+      <edge id="31" source="4025" target="4028" />
+      <edge id="32" source="4025" target="4015" />
+      <edge id="33" source="4025" target="4018" />
+      <edge id="34" source="4025" target="4029" />
+      <edge id="35" source="4025" target="4019" />
+      <edge id="36" source="4025" target="4021" />
+      <edge id="37" source="4031" target="4028" />
+      <edge id="38" source="4024" target="4028" />
+      <edge id="39" source="4024" target="4015" />
+      <edge id="40" source="4024" target="4030" />
+      <edge id="41" source="4017" target="4018" />
+      <edge id="42" source="4017" target="4029" />
+      <edge id="43" source="4017" target="4027" />
+      <edge id="44" source="4017" target="4019" />
+      <edge id="45" source="4023" target="4028" />
+      <edge id="46" source="4023" target="4021" />
+      <edge id="47" source="4030" target="4028" />
+      <edge id="48" source="4030" target="4015" />
+      <edge id="49" source="4027" target="4029" />
+      <edge id="50" source="4027" target="4019" />
+      <edge id="51" source="4027" target="4018" />
+      <edge id="52" source="4028" target="4015" />
+      <edge id="53" source="4028" target="4021" />
+      <edge id="54" source="4018" target="4029" />
+      <edge id="55" source="4018" target="4019" />
+      <edge id="56" source="4029" target="4019" />
+    </edges>
+  </graph>
+</gexf>

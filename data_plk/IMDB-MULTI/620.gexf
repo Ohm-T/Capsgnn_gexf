@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="8274" label="8274" />
+      <node id="8272" label="8272" />
+      <node id="8269" label="8269" />
+      <node id="8271" label="8271" />
+      <node id="8273" label="8273" />
+      <node id="8270" label="8270" />
+      <node id="8276" label="8276" />
+      <node id="8275" label="8275" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8274" target="8272" />
+      <edge id="1" source="8274" target="8269" />
+      <edge id="2" source="8274" target="8271" />
+      <edge id="3" source="8274" target="8273" />
+      <edge id="4" source="8274" target="8270" />
+      <edge id="5" source="8274" target="8276" />
+      <edge id="6" source="8274" target="8275" />
+      <edge id="7" source="8272" target="8269" />
+      <edge id="8" source="8272" target="8271" />
+      <edge id="9" source="8272" target="8273" />
+      <edge id="10" source="8272" target="8270" />
+      <edge id="11" source="8272" target="8276" />
+      <edge id="12" source="8272" target="8275" />
+      <edge id="13" source="8269" target="8275" />
+      <edge id="14" source="8269" target="8271" />
+      <edge id="15" source="8269" target="8273" />
+      <edge id="16" source="8269" target="8270" />
+      <edge id="17" source="8269" target="8276" />
+      <edge id="18" source="8271" target="8275" />
+      <edge id="19" source="8271" target="8273" />
+      <edge id="20" source="8271" target="8270" />
+      <edge id="21" source="8271" target="8276" />
+      <edge id="22" source="8273" target="8270" />
+      <edge id="23" source="8273" target="8276" />
+      <edge id="24" source="8273" target="8275" />
+      <edge id="25" source="8270" target="8276" />
+      <edge id="26" source="8270" target="8275" />
+      <edge id="27" source="8276" target="8275" />
+    </edges>
+  </graph>
+</gexf>

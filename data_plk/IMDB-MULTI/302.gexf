@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="4306" label="4306" />
+      <node id="4310" label="4310" />
+      <node id="4307" label="4307" />
+      <node id="4305" label="4305" />
+      <node id="4314" label="4314" />
+      <node id="4303" label="4303" />
+      <node id="4301" label="4301" />
+      <node id="4298" label="4298" />
+      <node id="4300" label="4300" />
+      <node id="4299" label="4299" />
+      <node id="4312" label="4312" />
+      <node id="4313" label="4313" />
+      <node id="4302" label="4302" />
+      <node id="4308" label="4308" />
+      <node id="4309" label="4309" />
+      <node id="4304" label="4304" />
+      <node id="4311" label="4311" />
+    </nodes>
+    <edges>
+      <edge id="0" source="4306" target="4310" />
+      <edge id="1" source="4306" target="4307" />
+      <edge id="2" source="4306" target="4308" />
+      <edge id="3" source="4306" target="4299" />
+      <edge id="4" source="4306" target="4309" />
+      <edge id="5" source="4306" target="4304" />
+      <edge id="6" source="4306" target="4311" />
+      <edge id="7" source="4306" target="4300" />
+      <edge id="8" source="4310" target="4307" />
+      <edge id="9" source="4310" target="4314" />
+      <edge id="10" source="4310" target="4303" />
+      <edge id="11" source="4310" target="4301" />
+      <edge id="12" source="4310" target="4298" />
+      <edge id="13" source="4310" target="4300" />
+      <edge id="14" source="4310" target="4299" />
+      <edge id="15" source="4310" target="4313" />
+      <edge id="16" source="4310" target="4308" />
+      <edge id="17" source="4310" target="4309" />
+      <edge id="18" source="4310" target="4304" />
+      <edge id="19" source="4310" target="4311" />
+      <edge id="20" source="4307" target="4308" />
+      <edge id="21" source="4307" target="4299" />
+      <edge id="22" source="4307" target="4309" />
+      <edge id="23" source="4307" target="4304" />
+      <edge id="24" source="4307" target="4311" />
+      <edge id="25" source="4307" target="4300" />
+      <edge id="26" source="4305" target="4312" />
+      <edge id="27" source="4305" target="4313" />
+      <edge id="28" source="4305" target="4302" />
+      <edge id="29" source="4305" target="4303" />
+      <edge id="30" source="4305" target="4301" />
+      <edge id="31" source="4305" target="4298" />
+      <edge id="32" source="4305" target="4314" />
+      <edge id="33" source="4305" target="4300" />
+      <edge id="34" source="4314" target="4312" />
+      <edge id="35" source="4314" target="4302" />
+      <edge id="36" source="4314" target="4303" />
+      <edge id="37" source="4314" target="4301" />
+      <edge id="38" source="4314" target="4313" />
+      <edge id="39" source="4314" target="4298" />
+      <edge id="40" source="4314" target="4300" />
+      <edge id="41" source="4303" target="4312" />
+      <edge id="42" source="4303" target="4302" />
+      <edge id="43" source="4303" target="4301" />
+      <edge id="44" source="4303" target="4313" />
+      <edge id="45" source="4303" target="4298" />
+      <edge id="46" source="4303" target="4300" />
+      <edge id="47" source="4301" target="4312" />
+      <edge id="48" source="4301" target="4302" />
+      <edge id="49" source="4301" target="4313" />
+      <edge id="50" source="4301" target="4298" />
+      <edge id="51" source="4301" target="4300" />
+      <edge id="52" source="4298" target="4312" />
+      <edge id="53" source="4298" target="4302" />
+      <edge id="54" source="4298" target="4313" />
+      <edge id="55" source="4298" target="4300" />
+      <edge id="56" source="4300" target="4299" />
+      <edge id="57" source="4300" target="4312" />
+      <edge id="58" source="4300" target="4313" />
+      <edge id="59" source="4300" target="4302" />
+      <edge id="60" source="4300" target="4308" />
+      <edge id="61" source="4300" target="4309" />
+      <edge id="62" source="4300" target="4304" />
+      <edge id="63" source="4300" target="4311" />
+      <edge id="64" source="4299" target="4308" />
+      <edge id="65" source="4299" target="4309" />
+      <edge id="66" source="4299" target="4304" />
+      <edge id="67" source="4299" target="4311" />
+      <edge id="68" source="4312" target="4302" />
+      <edge id="69" source="4312" target="4313" />
+      <edge id="70" source="4313" target="4302" />
+      <edge id="71" source="4308" target="4309" />
+      <edge id="72" source="4308" target="4304" />
+      <edge id="73" source="4308" target="4311" />
+      <edge id="74" source="4309" target="4311" />
+      <edge id="75" source="4309" target="4304" />
+      <edge id="76" source="4304" target="4311" />
+    </edges>
+  </graph>
+</gexf>

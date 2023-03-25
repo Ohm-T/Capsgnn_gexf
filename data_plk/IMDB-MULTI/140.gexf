@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1972" label="1972" />
+      <node id="1974" label="1974" />
+      <node id="1978" label="1978" />
+      <node id="1979" label="1979" />
+      <node id="1973" label="1973" />
+      <node id="1971" label="1971" />
+      <node id="1977" label="1977" />
+      <node id="1976" label="1976" />
+      <node id="1975" label="1975" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1972" target="1971" />
+      <edge id="1" source="1972" target="1977" />
+      <edge id="2" source="1972" target="1974" />
+      <edge id="3" source="1972" target="1979" />
+      <edge id="4" source="1974" target="1971" />
+      <edge id="5" source="1974" target="1977" />
+      <edge id="6" source="1974" target="1979" />
+      <edge id="7" source="1978" target="1973" />
+      <edge id="8" source="1978" target="1976" />
+      <edge id="9" source="1978" target="1979" />
+      <edge id="10" source="1978" target="1975" />
+      <edge id="11" source="1979" target="1973" />
+      <edge id="12" source="1979" target="1971" />
+      <edge id="13" source="1979" target="1977" />
+      <edge id="14" source="1979" target="1976" />
+      <edge id="15" source="1979" target="1975" />
+      <edge id="16" source="1973" target="1976" />
+      <edge id="17" source="1973" target="1975" />
+      <edge id="18" source="1971" target="1977" />
+      <edge id="19" source="1976" target="1975" />
+    </edges>
+  </graph>
+</gexf>

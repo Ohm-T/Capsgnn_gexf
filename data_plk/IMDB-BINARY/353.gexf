@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7041" label="7041" />
+      <node id="7053" label="7053" />
+      <node id="7048" label="7048" />
+      <node id="7044" label="7044" />
+      <node id="7049" label="7049" />
+      <node id="7051" label="7051" />
+      <node id="7046" label="7046" />
+      <node id="7045" label="7045" />
+      <node id="7043" label="7043" />
+      <node id="7042" label="7042" />
+      <node id="7050" label="7050" />
+      <node id="7052" label="7052" />
+      <node id="7047" label="7047" />
+    </nodes>
+    <edges>
+      <edge id="0" source="7041" target="7053" />
+      <edge id="1" source="7041" target="7048" />
+      <edge id="2" source="7041" target="7044" />
+      <edge id="3" source="7041" target="7049" />
+      <edge id="4" source="7041" target="7051" />
+      <edge id="5" source="7041" target="7046" />
+      <edge id="6" source="7041" target="7045" />
+      <edge id="7" source="7041" target="7043" />
+      <edge id="8" source="7041" target="7042" />
+      <edge id="9" source="7041" target="7050" />
+      <edge id="10" source="7041" target="7052" />
+      <edge id="11" source="7041" target="7047" />
+      <edge id="12" source="7053" target="7045" />
+      <edge id="13" source="7053" target="7051" />
+      <edge id="14" source="7053" target="7048" />
+      <edge id="15" source="7053" target="7042" />
+      <edge id="16" source="7053" target="7050" />
+      <edge id="17" source="7053" target="7049" />
+      <edge id="18" source="7053" target="7047" />
+      <edge id="19" source="7053" target="7043" />
+      <edge id="20" source="7053" target="7046" />
+      <edge id="21" source="7048" target="7044" />
+      <edge id="22" source="7048" target="7049" />
+      <edge id="23" source="7048" target="7051" />
+      <edge id="24" source="7048" target="7046" />
+      <edge id="25" source="7048" target="7045" />
+      <edge id="26" source="7048" target="7043" />
+      <edge id="27" source="7048" target="7042" />
+      <edge id="28" source="7048" target="7050" />
+      <edge id="29" source="7048" target="7052" />
+      <edge id="30" source="7048" target="7047" />
+      <edge id="31" source="7044" target="7045" />
+      <edge id="32" source="7044" target="7052" />
+      <edge id="33" source="7044" target="7049" />
+      <edge id="34" source="7044" target="7046" />
+      <edge id="35" source="7049" target="7051" />
+      <edge id="36" source="7049" target="7046" />
+      <edge id="37" source="7049" target="7045" />
+      <edge id="38" source="7049" target="7043" />
+      <edge id="39" source="7049" target="7042" />
+      <edge id="40" source="7049" target="7050" />
+      <edge id="41" source="7049" target="7052" />
+      <edge id="42" source="7049" target="7047" />
+      <edge id="43" source="7051" target="7045" />
+      <edge id="44" source="7051" target="7042" />
+      <edge id="45" source="7051" target="7050" />
+      <edge id="46" source="7051" target="7043" />
+      <edge id="47" source="7051" target="7046" />
+      <edge id="48" source="7046" target="7045" />
+      <edge id="49" source="7046" target="7043" />
+      <edge id="50" source="7046" target="7042" />
+      <edge id="51" source="7046" target="7050" />
+      <edge id="52" source="7046" target="7052" />
+      <edge id="53" source="7046" target="7047" />
+      <edge id="54" source="7045" target="7043" />
+      <edge id="55" source="7045" target="7042" />
+      <edge id="56" source="7045" target="7050" />
+      <edge id="57" source="7045" target="7052" />
+      <edge id="58" source="7045" target="7047" />
+      <edge id="59" source="7043" target="7042" />
+      <edge id="60" source="7043" target="7050" />
+      <edge id="61" source="7042" target="7050" />
+      <edge id="62" source="7050" target="7047" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2011" label="2011">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2018" label="2018">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1994" label="1994">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1999" label="1999">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2009" label="2009">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2004" label="2004">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2013" label="2013">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1996" label="1996">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2006" label="2006">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2007" label="2007">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2005" label="2005">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2003" label="2003">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1993" label="1993">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2008" label="2008">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2015" label="2015">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2001" label="2001">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2014" label="2014">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2000" label="2000">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1998" label="1998">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2016" label="2016">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1997" label="1997">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1992" label="1992">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1995" label="1995">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2012" label="2012">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2017" label="2017">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2010" label="2010">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="2002" label="2002">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="2011" target="2012" />
+      <edge id="1" source="2011" target="2010" />
+      <edge id="2" source="2018" target="2017" />
+      <edge id="3" source="1994" target="1993" />
+      <edge id="4" source="1994" target="1995" />
+      <edge id="5" source="1994" target="2003" />
+      <edge id="6" source="1999" target="2000" />
+      <edge id="7" source="1999" target="1998" />
+      <edge id="8" source="2009" target="2004" />
+      <edge id="9" source="2009" target="2008" />
+      <edge id="10" source="2009" target="2010" />
+      <edge id="11" source="2004" target="2003" />
+      <edge id="12" source="2004" target="2005" />
+      <edge id="13" source="2013" target="2008" />
+      <edge id="14" source="2013" target="2012" />
+      <edge id="15" source="2013" target="2014" />
+      <edge id="16" source="1996" target="1995" />
+      <edge id="17" source="1996" target="1997" />
+      <edge id="18" source="2006" target="2005" />
+      <edge id="19" source="2006" target="2007" />
+      <edge id="20" source="2007" target="2008" />
+      <edge id="21" source="2005" target="1992" />
+      <edge id="22" source="2003" target="2002" />
+      <edge id="23" source="1993" target="1992" />
+      <edge id="24" source="2015" target="2014" />
+      <edge id="25" source="2001" target="2000" />
+      <edge id="26" source="2001" target="2010" />
+      <edge id="27" source="2001" target="2002" />
+      <edge id="28" source="2014" target="2016" />
+      <edge id="29" source="1998" target="1997" />
+      <edge id="30" source="1998" target="2017" />
+      <edge id="31" source="1997" target="2002" />
+      <edge id="32" source="2019" target="2017" />
+    </edges>
+  </graph>
+</gexf>

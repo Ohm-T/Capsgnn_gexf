@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="17314" label="17314" />
+      <node id="17304" label="17304" />
+      <node id="17310" label="17310" />
+      <node id="17294" label="17294" />
+      <node id="17311" label="17311" />
+      <node id="17307" label="17307" />
+      <node id="17303" label="17303" />
+      <node id="17301" label="17301" />
+      <node id="17305" label="17305" />
+      <node id="17316" label="17316" />
+      <node id="17308" label="17308" />
+      <node id="17309" label="17309" />
+      <node id="17315" label="17315" />
+      <node id="17302" label="17302" />
+      <node id="17298" label="17298" />
+      <node id="17312" label="17312" />
+      <node id="17300" label="17300" />
+      <node id="17297" label="17297" />
+      <node id="17306" label="17306" />
+      <node id="17295" label="17295" />
+      <node id="17313" label="17313" />
+      <node id="17296" label="17296" />
+      <node id="17299" label="17299" />
+      <node id="17317" label="17317" />
+    </nodes>
+    <edges>
+      <edge id="0" source="17314" target="17309" />
+      <edge id="1" source="17314" target="17306" />
+      <edge id="2" source="17314" target="17302" />
+      <edge id="3" source="17314" target="17294" />
+      <edge id="4" source="17314" target="17296" />
+      <edge id="5" source="17304" target="17300" />
+      <edge id="6" source="17304" target="17294" />
+      <edge id="7" source="17304" target="17311" />
+      <edge id="8" source="17304" target="17303" />
+      <edge id="9" source="17310" target="17298" />
+      <edge id="10" source="17310" target="17297" />
+      <edge id="11" source="17310" target="17313" />
+      <edge id="12" source="17310" target="17294" />
+      <edge id="13" source="17310" target="17299" />
+      <edge id="14" source="17294" target="17311" />
+      <edge id="15" source="17294" target="17307" />
+      <edge id="16" source="17294" target="17303" />
+      <edge id="17" source="17294" target="17301" />
+      <edge id="18" source="17294" target="17305" />
+      <edge id="19" source="17294" target="17316" />
+      <edge id="20" source="17294" target="17308" />
+      <edge id="21" source="17294" target="17309" />
+      <edge id="22" source="17294" target="17315" />
+      <edge id="23" source="17294" target="17302" />
+      <edge id="24" source="17294" target="17298" />
+      <edge id="25" source="17294" target="17312" />
+      <edge id="26" source="17294" target="17300" />
+      <edge id="27" source="17294" target="17297" />
+      <edge id="28" source="17294" target="17306" />
+      <edge id="29" source="17294" target="17295" />
+      <edge id="30" source="17294" target="17313" />
+      <edge id="31" source="17294" target="17296" />
+      <edge id="32" source="17294" target="17299" />
+      <edge id="33" source="17294" target="17317" />
+      <edge id="34" source="17311" target="17300" />
+      <edge id="35" source="17311" target="17303" />
+      <edge id="36" source="17307" target="17301" />
+      <edge id="37" source="17307" target="17305" />
+      <edge id="38" source="17307" target="17315" />
+      <edge id="39" source="17307" target="17295" />
+      <edge id="40" source="17303" target="17300" />
+      <edge id="41" source="17301" target="17305" />
+      <edge id="42" source="17301" target="17315" />
+      <edge id="43" source="17301" target="17295" />
+      <edge id="44" source="17305" target="17315" />
+      <edge id="45" source="17305" target="17295" />
+      <edge id="46" source="17316" target="17308" />
+      <edge id="47" source="17316" target="17317" />
+      <edge id="48" source="17316" target="17312" />
+      <edge id="49" source="17308" target="17312" />
+      <edge id="50" source="17308" target="17317" />
+      <edge id="51" source="17309" target="17306" />
+      <edge id="52" source="17309" target="17302" />
+      <edge id="53" source="17309" target="17296" />
+      <edge id="54" source="17315" target="17295" />
+      <edge id="55" source="17302" target="17306" />
+      <edge id="56" source="17302" target="17296" />
+      <edge id="57" source="17298" target="17297" />
+      <edge id="58" source="17298" target="17313" />
+      <edge id="59" source="17298" target="17299" />
+      <edge id="60" source="17312" target="17317" />
+      <edge id="61" source="17297" target="17299" />
+      <edge id="62" source="17297" target="17313" />
+      <edge id="63" source="17306" target="17296" />
+      <edge id="64" source="17313" target="17299" />
+    </edges>
+  </graph>
+</gexf>

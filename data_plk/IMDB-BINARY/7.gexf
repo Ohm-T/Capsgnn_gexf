@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="199" label="199" />
+      <node id="211" label="211" />
+      <node id="198" label="198" />
+      <node id="202" label="202" />
+      <node id="209" label="209" />
+      <node id="208" label="208" />
+      <node id="205" label="205" />
+      <node id="207" label="207" />
+      <node id="200" label="200" />
+      <node id="212" label="212" />
+      <node id="201" label="201" />
+      <node id="206" label="206" />
+      <node id="210" label="210" />
+      <node id="204" label="204" />
+      <node id="203" label="203" />
+    </nodes>
+    <edges>
+      <edge id="0" source="199" target="211" />
+      <edge id="1" source="199" target="198" />
+      <edge id="2" source="199" target="202" />
+      <edge id="3" source="199" target="209" />
+      <edge id="4" source="199" target="208" />
+      <edge id="5" source="199" target="205" />
+      <edge id="6" source="199" target="207" />
+      <edge id="7" source="199" target="200" />
+      <edge id="8" source="199" target="212" />
+      <edge id="9" source="199" target="201" />
+      <edge id="10" source="199" target="206" />
+      <edge id="11" source="199" target="210" />
+      <edge id="12" source="199" target="204" />
+      <edge id="13" source="199" target="203" />
+      <edge id="14" source="211" target="201" />
+      <edge id="15" source="211" target="209" />
+      <edge id="16" source="211" target="208" />
+      <edge id="17" source="211" target="210" />
+      <edge id="18" source="211" target="200" />
+      <edge id="19" source="211" target="203" />
+      <edge id="20" source="198" target="212" />
+      <edge id="21" source="198" target="202" />
+      <edge id="22" source="198" target="205" />
+      <edge id="23" source="198" target="206" />
+      <edge id="24" source="198" target="207" />
+      <edge id="25" source="198" target="204" />
+      <edge id="26" source="198" target="203" />
+      <edge id="27" source="202" target="212" />
+      <edge id="28" source="202" target="205" />
+      <edge id="29" source="202" target="207" />
+      <edge id="30" source="202" target="206" />
+      <edge id="31" source="202" target="204" />
+      <edge id="32" source="202" target="203" />
+      <edge id="33" source="209" target="201" />
+      <edge id="34" source="209" target="208" />
+      <edge id="35" source="209" target="210" />
+      <edge id="36" source="209" target="200" />
+      <edge id="37" source="209" target="203" />
+      <edge id="38" source="208" target="201" />
+      <edge id="39" source="208" target="210" />
+      <edge id="40" source="208" target="200" />
+      <edge id="41" source="208" target="203" />
+      <edge id="42" source="205" target="212" />
+      <edge id="43" source="205" target="206" />
+      <edge id="44" source="205" target="207" />
+      <edge id="45" source="205" target="204" />
+      <edge id="46" source="205" target="203" />
+      <edge id="47" source="207" target="212" />
+      <edge id="48" source="207" target="206" />
+      <edge id="49" source="207" target="204" />
+      <edge id="50" source="207" target="203" />
+      <edge id="51" source="200" target="201" />
+      <edge id="52" source="200" target="210" />
+      <edge id="53" source="200" target="203" />
+      <edge id="54" source="212" target="206" />
+      <edge id="55" source="212" target="204" />
+      <edge id="56" source="212" target="203" />
+      <edge id="57" source="201" target="210" />
+      <edge id="58" source="201" target="203" />
+      <edge id="59" source="206" target="204" />
+      <edge id="60" source="206" target="203" />
+      <edge id="61" source="210" target="203" />
+      <edge id="62" source="204" target="203" />
+    </edges>
+  </graph>
+</gexf>
